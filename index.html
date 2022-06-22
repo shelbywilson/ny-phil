@@ -91,7 +91,7 @@
                 fetch(`./data/date-indices/${month}-${day}.json`)
                     .then(res => res.json())
                     .then(programs => {
-                        state.programs = programs
+                        state.programs = programs.reverse()
                         populatePage()
                     })
                     .catch(() => {
@@ -111,23 +111,37 @@
                 return l
             }
 
+            function getLocation(concerts) {
+                const concert = concerts.find(concert => parseInt(concert.Date.split('-')[2].split('T')[0]) === parseInt(state.day))
+
+                return concert.Location + '—' + concert.Venue
+            }
+
             function populatePage() {
                 const container = document.querySelector('#programs-container')
                 container.innerHTML = '';
 
-                document.querySelector('h1').innerHTML = `The NY Philharmonic has played <br/>${state.programs.length} programs on ${months[state.month - 1]} ${state.day}`
-                document.querySelector('h2').innerHTML = state.programs.length > 0 ? `from ${state.programs[0].year} to ${state.programs[state.programs.length - 1].year},` : '&nbsp;'
+                document.querySelector('h1').innerHTML = `${state.programs.length} programs have been performed on ${months[state.month - 1]} ${state.day}`
+                document.querySelector('h2').innerHTML = state.programs.length > 0 ? `from ${state.programs[state.programs.length - 1].year} to ${state.programs[0].year},` : '&nbsp;'
 
                 let composers = {}
                 if (state.programs.length > 0) {
                     state.programs.forEach(program => {
                         const p = document.createElement('div')
+                        // const day = new Date(program.year, state.month, state.day).toLocaleDateString('en-us', {weekday: 'long'})
                         p.className = 'program'
-                        p.innerHTML = `<h3>${program.year}</h3><em>${getListOfLocations(program.program.concerts)}</em>`
+                        p.innerHTML = `<h3>${program.year}</h3>`
+                        p.innerHTML += `<em>${getLocation(program.program.concerts)}</em>`
+                        p.innerHTML += `<p>${program.program.orchestra}</p>`
+
+                        if (program.program.concerts.length > 1) {
+                            const index = program.program.concerts.findIndex(concert => parseInt(concert.Date.split('-')[2].split('T')[0]) === parseInt(state.day))
+                            p.innerHTML += `<p>${index + 1} of ${program.program.concerts.length} concerts</p>`
+                        }
 
                         program.program.works.forEach(work => {
                             const div = document.createElement('div')
-                            div.className = 'program-work'
+                            div.className = 'program-work' + (work.interval ? '-intermission' : '')
                             div.innerHTML = `<span>${work.workTitle || work.interval}</span><span>${work.movement || ''}</span><span>${work.composerName || ''}</span>`
                             p.append(div)
 

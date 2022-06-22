@@ -3,6 +3,7 @@
     font-family: sans-serif;
     letter-spacing: 0.01em;
     line-height: 1.5;
+    font-size: 14px;
 }
 body {
     background: whitesmoke;
@@ -10,7 +11,11 @@ body {
 }
 main, header {
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 3rem auto;
+}
+header div {
+    display: flex;
+    flex-direction: row;
 }
 #programs-container {
     display: flex;
@@ -21,41 +26,50 @@ main, header {
     flex: 0 0 50%;
     padding: 1rem;
     border: 1px solid darkgray;
-    margin: -1px 0 0 -1px;
+    margin: -1px 0 0 -1px;    
+    counter-reset: section;
 }
 .program:nth-child(even) {
     margin-left: -1px;
 }
-.program-work {
+.program-work, .program-work-intermission {
     display: flex;
     flex-direction: column;
     margin: 2rem 0 2rem 20px;
     position: relative;
 }
+.program-work-intermission {
+    font-style: italic;
+}
 .program-work:before {
-    content: '';
+    content: counter(section);
     position: absolute;
-    width: 6px;
-    height: 6px;
-    border-radius: 100%;
-    background: darkgray;
-    top: 50%;
-    left: -20px;
+    width: 11px;
+    top: 2px;
+    left: -25px;
+    counter-increment: section;
+    text-align: right;
+    font-size: 11px;
 }
 h1 {
+    font-size: 1.5rem;
     margin: 0 0 1rem 0;
+    font-weight: 400;
 }
 h2 {
+    font-weight: 400;
+    font-size: 1.5rem;
     margin: 1rem 0 0 0;
 }
 h3 {
+    font-weight: 400;
+    font-size: 1.5rem;
     margin: 0;
 }
 
 @media (max-width: 767px) {
     .program {
         flex-basis: 100%;
-        margin: 0;
     }
     h1 {
         font-size: 1.2rem;
