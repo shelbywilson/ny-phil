@@ -1,0 +1,2680 @@
+[
+    {
+        "program": {
+            "id": "883c6c05-d1b0-4467-8e59-922006ed34bb-0.1",
+            "programID": "1739",
+            "orchestra": "New York Philharmonic",
+            "season": "1948-49",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Cleveland, OH",
+                    "Venue": "Music Hall",
+                    "Date": "1948-09-21T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51550*",
+                    "composerName": "Bach,  Johann  Sebastian",
+                    "workTitle": "TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)",
+                    "conductorName": "Stokowski, Leopold",
+                    "soloists": []
+                },
+                {
+                    "ID": "51870*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+                    "conductorName": "Stokowski, Leopold",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2821*",
+                    "composerName": "Dubensky,  Arkady",
+                    "workTitle": "FUGUE FOR THIRTY-FOUR VIOLINS",
+                    "conductorName": "Stokowski, Leopold",
+                    "soloists": []
+                },
+                {
+                    "ID": "3249*",
+                    "composerName": "Messiaen,  Olivier",
+                    "workTitle": "ASCENSION (ORCH)",
+                    "conductorName": "Stokowski, Leopold",
+                    "soloists": []
+                },
+                {
+                    "ID": "9004*14",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "TRISTAN UND ISOLDE, WWV 90",
+                    "movement": "Prelude and Liebestod (with or without soloist)",
+                    "conductorName": "Stokowski, Leopold",
+                    "soloists": [
+                        {
+                            "soloistName": "No Soloist",
+                            "soloistInstrument": "Other",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1948"
+    },
+    {
+        "program": {
+            "id": "d3eadde3-4054-43a4-aa3a-cafa901a55e0-0.1",
+            "programID": "5169",
+            "orchestra": "New York Philharmonic",
+            "season": "1955-56",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Basel, SWITZERLAND",
+                    "Venue": "Musiksaal des Kasinos",
+                    "Date": "1955-09-21T04:00:00Z",
+                    "Time": "8:15PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "50767*1",
+                    "composerName": "Kabalevsky,  Dmitri",
+                    "workTitle": "COLAS BREUGNON",
+                    "movement": "Overture",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "1847*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": [
+                        {
+                            "soloistName": "Johannesen, Grant",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51897*",
+                    "composerName": "Shostakovich,  Dmitri",
+                    "workTitle": "SYMPHONY NO. 10, OP. 93",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "51294*",
+                    "composerName": "Rachmaninoff,  Sergei",
+                    "workTitle": "VOCALISE",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "11775*3",
+                    "composerName": "Falla,  Manuel  de",
+                    "workTitle": "THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2",
+                    "movement": "Final Dance (Jota)",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1955"
+    },
+    {
+        "program": {
+            "id": "f35a911e-d22f-4007-85fc-6f6beda4b4a4-0.1",
+            "programID": "5807",
+            "orchestra": "New York Philharmonic",
+            "season": "1959-60",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Basel, SWITZERLAND",
+                    "Venue": "Musiksaal des Kasinos",
+                    "Date": "1959-09-21T04:00:00Z",
+                    "Time": "8:15PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "53597*",
+                    "composerName": "Piston,  Walter",
+                    "workTitle": "CONCERTO, ORCHESTRA",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "50606*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "CONCERTO, PIANO NO. 17, G MAJOR, K.453",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Bernstein, Leonard",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51870*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "51356*7",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "ROMEO ET JULIETTE, OP.17",
+                    "movement": "Queen Mab, or the Fairy of dreams (Scherzo)",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1959"
+    },
+    {
+        "program": {
+            "id": "c4b43621-3d04-4576-9aad-7325679ab0ce-0.1",
+            "programID": "4601",
+            "orchestra": "New York Philharmonic",
+            "season": "1961-62",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Philadelphia, PA",
+                    "Venue": "Academy of Music",
+                    "Date": "1961-09-21T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51759*",
+                    "composerName": "Roussel,  Albert",
+                    "workTitle": "SYMPHONY NO. 3, G MINOR, OP. 42",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "9006*3",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+                    "movement": "Brunnhilde's Immolation, Brunnhilde, Act III, scene iii",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Farrell, Eileen",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52446*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1961"
+    },
+    {
+        "program": {
+            "id": "804f4184-f341-4b36-ae44-5118767b201a-0.1",
+            "programID": "6475",
+            "orchestra": "New York Philharmonic",
+            "season": "1963-64",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Washington, DC",
+                    "Venue": "Constitution Hall",
+                    "Date": "1963-09-21T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52577*",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "2005*",
+                    "composerName": "Debussy,  Claude",
+                    "workTitle": "IMAGES: IBÉRIA, NO. 2",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "7837*8",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "ROSENKAVALIER, DER, OP. 59",
+                    "movement": "Selected Scenes",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Curtin, Phyllis",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Raskin, Judith",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Sarfaty, Regina",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1963"
+    },
+    {
+        "program": {
+            "id": "ba57ce54-7053-4658-9200-b2851f825a24-0.1",
+            "programID": "13453",
+            "orchestra": "New York Philharmonic",
+            "season": "1966-67",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Storrs, CT",
+                    "Venue": "Jorgensen Auditorium",
+                    "Date": "1966-09-21T04:00:00Z",
+                    "Time": "None"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3167*1",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "KING STEPHEN, OP. 117",
+                    "movement": "Overture",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "50025*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "ROMEO AND JULIET, FANTASY-OVERTURE",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52826*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1966"
+    },
+    {
+        "program": {
+            "id": "044fed93-cd7e-42b7-ac85-04c9b1fdb7de-0.1",
+            "programID": "7065",
+            "orchestra": "New York Philharmonic",
+            "season": "1967-68",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Vancouver, BC, CANADA",
+                    "Venue": "Jubilee Auditorium",
+                    "Date": "1967-09-21T04:00:00Z",
+                    "Time": "None"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "5512*",
+                    "composerName": "Anthem,",
+                    "workTitle": "CANADA",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "52456*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 8 IN F MAJOR, OP.93",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "52306*",
+                    "composerName": "Copland,  Aaron",
+                    "workTitle": "INSCAPE",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50057*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 2, C MINOR, OP.17 (LITTLE RUSSIAN)",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "7599*1",
+                    "composerName": "Bernstein,  Leonard",
+                    "workTitle": "CANDIDE",
+                    "movement": "Overture",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1967"
+    },
+    {
+        "program": {
+            "id": "d93ece67-dc44-4abc-9fe1-c4df2a07200a-0.1",
+            "programID": "6004",
+            "orchestra": "New York Philharmonic",
+            "season": "1969-70",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Ann Arbor, MI",
+                    "Venue": "Hill Auditorium",
+                    "Date": "1969-09-21T04:00:00Z",
+                    "Time": "2:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1271*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "ABDUCTION FROM THE SERAGLIO, THE: OVERTURE, K.384 (ARR. Unspecified)",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": []
+                },
+                {
+                    "ID": "2214*",
+                    "composerName": "Rachmaninoff,  Sergei",
+                    "workTitle": "CONCERTO, PIANO, NO. 3, D MINOR, OP. 30",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": [
+                        {
+                            "soloistName": "Watts, Andre (André)",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51691*",
+                    "composerName": "Bartok [Bartók],  Béla",
+                    "workTitle": "CONCERTO FOR ORCHESTRA, SZ 116, BB 123",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": []
+                },
+                {
+                    "ID": "52142*4",
+                    "composerName": "Ginastera,  Alberto",
+                    "workTitle": "ESTANCIA, FOUR DANCES FROM, OP. 8A",
+                    "movement": "Final Dance: Malambo",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1969"
+    },
+    {
+        "program": {
+            "id": "86e18bdd-9561-483a-a1df-df6185642a3e-0.1",
+            "programID": "5485",
+            "orchestra": "New York Philharmonic",
+            "season": "1971-72",
+            "concerts": [
+                {
+                    "eventType": "Pension Fund Benefit Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1971-09-21T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "50564*",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "FAUST OVERTURE, WWV 59",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "51390*1",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "TROYENS, LES",
+                    "movement": "Royal Hunt and Storm [Concert Version]",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "51164*",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "TOTENTANZ",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": [
+                        {
+                            "soloistName": "Bolet, Jorge",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52644*",
+                    "composerName": "Debussy,  Claude",
+                    "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "53708*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "SACRE DU PRINTEMPS, LE",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1971"
+    },
+    {
+        "program": {
+            "id": "e7eef394-922a-4f94-b0ae-cb5afdc349d4-0.1",
+            "programID": "6354",
+            "orchestra": "New York Philharmonic",
+            "season": "1972-73",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1972-09-21T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1972-09-22T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1972-09-23T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1972-09-26T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51853*",
+                    "composerName": "Haydn,  Franz  Joseph",
+                    "workTitle": "SYMPHONY NO.  31, D MAJOR (HORNSIGNAL)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "4876*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "SYMPHONIES OF WIND INSTRUMENTS (1920 ORIGINAL)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "53640*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "FOUR ETUDES FOR ORCHESTRA (1929 VERSION)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "3433*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "CONCERTO, PIANO, D MAJOR (LEFT HAND)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": [
+                        {
+                            "soloistName": "Fleisher, Leon",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9007*17",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "MEISTERSINGER, DIE, WWV 96",
+                    "movement": "Prelude to Act I",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "9007*15",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "MEISTERSINGER, DIE, WWV 96",
+                    "movement": "Act III: Prelude",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "9007*10",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "MEISTERSINGER, DIE, WWV 96",
+                    "movement": "The Dance of the Apprentices and Entrance of the Masters, (chorus), Act III, scene v",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1972"
+    },
+    {
+        "program": {
+            "id": "8be3607a-c80e-4d81-b394-c56d29305175-0.1",
+            "programID": "7260",
+            "orchestra": "New York Philharmonic",
+            "season": "1973-74",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1973-09-20T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1973-09-21T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1973-09-22T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1973-09-25T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51929*",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "ALSO SPRACH ZARATHUSTRA, OP. 30",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2369*",
+                    "composerName": "Schoenberg,  Arnold",
+                    "workTitle": "VERKLAERTE NACHT (TRANSFIGURED NIGHT), OP. 4",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "3417*",
+                    "composerName": "Debussy,  Claude",
+                    "workTitle": "MER, LA [THE SEA]",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1973"
+    },
+    {
+        "program": {
+            "id": "124c7cbd-f892-4bed-ba66-767c87e05b54-0.1",
+            "programID": "5221",
+            "orchestra": "New York Philharmonic",
+            "season": "1974-75",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1974-09-19T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1974-09-20T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1974-09-21T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1974-09-24T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3634*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "CONCERTO, CELLO, B MINOR, OP.104",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": [
+                        {
+                            "soloistName": "Starker, Janos",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "54089*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": [
+                        {
+                            "soloistName": "Stade, Frederica von",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1974"
+    },
+    {
+        "program": {
+            "id": "6f9608db-f05f-4258-b54c-9e79dc15840c-0.1",
+            "programID": "5874",
+            "orchestra": "New York Philharmonic",
+            "season": "1978-79",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1978-09-21T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1978-09-22T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1978-09-23T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1978-09-26T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52113*",
+                    "composerName": "Webern,  Anton  von",
+                    "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "1847*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Bronfman, Yefim",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "3869*",
+                    "composerName": "Varese [Varèse],  Edgard",
+                    "workTitle": "INTEGRALES [INTÉGRALES]",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "715*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "VALSE, LA",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1978"
+    },
+    {
+        "program": {
+            "id": "97b360aa-ac7d-4eef-93e6-530cfb868614-0.1",
+            "programID": "6739",
+            "orchestra": "New York Philharmonic",
+            "season": "1979-80",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1979-09-20T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1979-09-21T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1979-09-22T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51985*",
+                    "composerName": "Britten,  Benjamin",
+                    "workTitle": "SINFONIA DA REQUIEM, OP. 20",
+                    "conductorName": "Kubelik, Rafael",
+                    "soloists": []
+                },
+                {
+                    "ID": "53288*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "SERENADE, E MAJOR, OP.22",
+                    "conductorName": "Kubelik, Rafael",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53071*",
+                    "composerName": "Schumann,  Robert",
+                    "workTitle": "SYMPHONY NO. 2, C MAJOR, OP. 61",
+                    "conductorName": "Kubelik, Rafael",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1979"
+    },
+    {
+        "program": {
+            "id": "7903ae8e-2c9c-4b1b-af04-6d25c7d43001-0.1",
+            "programID": "6518",
+            "orchestra": "New York Philharmonic",
+            "season": "1982-83",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1982-09-17T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1982-09-18T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1982-09-21T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "50709*2",
+                    "composerName": "Ives,  Charles",
+                    "workTitle": "HOLIDAYS SYMPHONY",
+                    "movement": "\"Decoration Day\"",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "2351*",
+                    "composerName": "Reich,  Steve",
+                    "workTitle": "TEHILLIM (PSALMS), ORCHESTRAL VERSION",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Baird, Julianne",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Bensman, Cheryl",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Bryden, Jane",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Wheeler, Kimball",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51870*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1982"
+    },
+    {
+        "program": {
+            "id": "71be918b-5fa0-4bb9-a0d6-2790c36ce642-0.1",
+            "programID": "1803",
+            "orchestra": "New York Philharmonic",
+            "season": "1985-86",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1985-09-19T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1985-09-20T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1985-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1985-09-23T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1077*",
+                    "composerName": "Korngold,  Erich",
+                    "workTitle": "CONCERTO, LEFT-HAND PIANO, C SHARP MAJOR, OP. 17",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Graffman, Gary",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "3969*",
+                    "composerName": "Schubert,  Franz",
+                    "workTitle": "SYMPHONY NO. 9, C MAJOR, D.944 (GREAT)",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1985"
+    },
+    {
+        "program": {
+            "id": "86041a82-983e-4c10-933f-c8a3727d8308-0.1",
+            "programID": "6244",
+            "orchestra": "New York Philharmonic",
+            "season": "1985-86",
+            "concerts": [
+                {
+                    "eventType": "Young People's Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1985-09-21T04:00:00Z",
+                    "Time": "2:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52364*1",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "EGMONT, OP.84",
+                    "movement": "Overture",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "52492*3",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "CONCERTO, PIANO, NO. 1, G MINOR, OP.25",
+                    "movement": "Presto — Molto allegro e vivace",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Martin, Joel",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "50949*3",
+                    "composerName": "Lalo,  Edouard",
+                    "workTitle": "CONCERTO, CELLO, D MINOR",
+                    "movement": "Introduction (Andante); Rondo (Allegro vivace)",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Eldredge, Allison",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2274*",
+                    "composerName": "Warshaw,  Dalit  Paz",
+                    "workTitle": "IN THE BEGINNING",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Warshaw, Dalit",
+                            "soloistInstrument": "Narrator",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1703*",
+                    "composerName": "Bizet,  Georges",
+                    "workTitle": "CARMEN FANTASY,THEMES, CARMEN, OP. 25 (ARR. Sarasate)",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Shaham, Gil",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1985"
+    },
+    {
+        "program": {
+            "id": "1544f729-8746-410d-b031-12ff67f8655e-0.1",
+            "programID": "7397",
+            "orchestra": "New York Philharmonic",
+            "season": "1990-91",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1990-09-21T04:00:00Z",
+                    "Time": "11:00AM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51648*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "SYMPHONY NO. 36, C MAJOR, K.425, \"LINZ\"",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "51526*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "SYMPHONY IN THREE MOVEMENTS",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "1587*",
+                    "composerName": "Chopin,  Frédéric",
+                    "workTitle": "CONCERTO, PIANO, NO. 1, E MINOR, OP. 11",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Kissin, Evgeny",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9026*7",
+                    "composerName": "Chopin,  Frédéric",
+                    "workTitle": "WALTZES (ALL SOLO PIANO)",
+                    "movement": "Waltz in F major, Op. 34 No. 3 (Cat Waltz)",
+                    "soloists": [
+                        {
+                            "soloistName": "Kissin, Evgeny",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1990"
+    },
+    {
+        "program": {
+            "id": "6a02e42a-97ce-4882-9db4-103c356b36f5-0.1",
+            "programID": "7401",
+            "orchestra": "New York Philharmonic",
+            "season": "1991-92",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1991-09-19T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1991-09-20T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1991-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1991-09-24T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51972*",
+                    "composerName": "Haydn,  Franz  Joseph",
+                    "workTitle": "SYMPHONY NO.  60, C MAJOR (IL DISTRATTO)",
+                    "conductorName": "Slatkin, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "484*",
+                    "composerName": "Barber,  Samuel",
+                    "workTitle": "SYMPHONY NO. 1 IN ONE MOVEMENT, OP.9",
+                    "conductorName": "Slatkin, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "3331*",
+                    "composerName": "Walton,  William",
+                    "workTitle": "SYMPHONY NO. 1",
+                    "conductorName": "Slatkin, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1991"
+    },
+    {
+        "program": {
+            "id": "f62d0e14-f7a9-413b-9095-c27a6f36a494-0.1",
+            "programID": "7650",
+            "orchestra": "New York Philharmonic",
+            "season": "1994-95",
+            "concerts": [
+                {
+                    "eventType": "Pension Fund Benefit Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1994-09-21T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "8834*3",
+                    "composerName": "Weber,  Carl  Maria Von",
+                    "workTitle": "OBERON",
+                    "movement": "Overture",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "51638*",
+                    "composerName": "Boccherini,  Luigi",
+                    "workTitle": "CONCERTO, CELLO, NO. 9, B-FLAT MAJOR (ARR. Grutzmacher)",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Ma, Yo-Yo",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "50083*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "VARIATIONS ON A ROCOCO THEME, OP.33 (FITZENHAGEN)",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Ma, Yo-Yo",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51691*",
+                    "composerName": "Bartok [Bartók],  Béla",
+                    "workTitle": "CONCERTO FOR ORCHESTRA, SZ 116, BB 123",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1994"
+    },
+    {
+        "program": {
+            "id": "91adfb9f-e972-4268-893f-9c2137c82b69-0.1",
+            "programID": "7801",
+            "orchestra": "New York Philharmonic",
+            "season": "1995-96",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1995-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1995-09-22T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1995-09-23T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1995-09-26T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51944*",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "DON JUAN, OP. 20",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "3265*",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "BURLESKE, D MINOR",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Ousset, Cécile",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1898*1",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "SALOME, OP. 54",
+                    "movement": "Dance of the Seven Veils",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "9007*17",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "MEISTERSINGER, DIE, WWV 96",
+                    "movement": "Prelude to Act I",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "8999*1",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "LOHENGRIN",
+                    "movement": "Act I: Prelude",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "8999*9",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "LOHENGRIN",
+                    "movement": "Act III: Introduction",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "9003*6",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "TANNHAUSER, WWV 70",
+                    "movement": "Overture [Dresden]",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1995"
+    },
+    {
+        "program": {
+            "id": "be81035f-be4e-477f-832b-09b916e01053-0.1",
+            "programID": "7776",
+            "orchestra": "New York Philharmonic",
+            "season": "1996-97",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1996-09-19T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1996-09-20T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1996-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1996-09-24T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "6980*",
+                    "composerName": "Katzer,  Georg",
+                    "workTitle": "SOUND-HOUSE",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "De Lancie, John",
+                            "soloistInstrument": "Narrator",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51067*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "CONCERTO, PIANO NO. 24, C MINOR, K.491",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Feltsman, Vladimir",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50064*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1996"
+    },
+    {
+        "program": {
+            "id": "ef68ddb3-5182-4f2a-bf4a-4ad8e3df1b80-0.1",
+            "programID": "8765",
+            "orchestra": "New York Philharmonic",
+            "season": "2000-01",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2000-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2000-09-22T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2000-09-23T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2000-09-25T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52512*",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "HEBRIDES (FINGAL'S CAVE) OVERTURE, OP.26",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "52502*",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Staples, Sheryl",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52550*",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "RUY BLAS, OP.95: OVERTURE",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "52577*",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2000"
+    },
+    {
+        "program": {
+            "id": "82f2dad1-6dd5-456e-9741-10d253e17154-0.1",
+            "programID": "9112",
+            "orchestra": "New York Philharmonic",
+            "season": "2002-03",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2002-09-19T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2002-09-20T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2002-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "8463*",
+                    "composerName": "Adams,  John",
+                    "workTitle": "ON THE TRANSMIGRATION OF SOULS",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": [
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Brooklyn Youth Chorus",
+                            "soloistInstrument": "Children's Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Grey, Mark",
+                            "soloistInstrument": "Sound Design",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52461*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 9 IN D MINOR, OP.125",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": [
+                        {
+                            "soloistName": "Mescheriakova, Marina",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Grove, Jill",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schade, Michael",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Pape, Rene (René)",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2002"
+    },
+    {
+        "program": {
+            "id": "a82e89f9-a3d1-456c-bbfe-6646be485993-0.1",
+            "programID": "9297",
+            "orchestra": "New York Philharmonic",
+            "season": "2004-05",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2004-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "2068*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": [
+                        {
+                            "soloistName": "Vengerov, Maxim",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2877*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "5646*1",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "SLAVONIC DANCES, OP. 72",
+                    "movement": "No. 1 in B major (Slavonic Dance No. 9): Molto vivace",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2004"
+    },
+    {
+        "program": {
+            "id": "94a3850b-a183-473e-8dec-a8a632a21350-0.1",
+            "programID": "9350",
+            "orchestra": "New York Philharmonic",
+            "season": "2005-06",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2005-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "3548*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": [
+                        {
+                            "soloistName": "Kissin, Evgeny",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51944*",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "DON JUAN, OP. 20",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "53542*",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "ROSENKAVALIER, DER: SUITE",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2005"
+    },
+    {
+        "program": {
+            "id": "bcee233f-5603-40cb-b3d7-34df419c33d0-0.1",
+            "programID": "9520",
+            "orchestra": "New York Philharmonic",
+            "season": "2006-07",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2006-09-20T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2006-09-21T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2006-09-22T04:00:00Z",
+                    "Time": "11:00AM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2006-09-26T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "8834*3",
+                    "composerName": "Weber,  Carl  Maria Von",
+                    "workTitle": "OBERON",
+                    "movement": "Overture",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "51194*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "EXSULTATE JUBILATE, K.158A (OLD K.165)",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": [
+                        {
+                            "soloistName": "Murphy, Heidi Grant",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "54089*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": [
+                        {
+                            "soloistName": "Murphy, Heidi Grant",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2006"
+    },
+    {
+        "program": {
+            "id": "454754a4-33f8-417e-8f13-58425019790f-0.1",
+            "programID": "9655",
+            "orchestra": "New York Philharmonic",
+            "season": "2007-08",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2007-09-19T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2007-09-20T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2007-09-21T04:00:00Z",
+                    "Time": "11:00AM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "50159*",
+                    "composerName": "Berio,  Luciano",
+                    "workTitle": "LA RITIRATA NOTTURNA DI MADRID",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "2068*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": [
+                        {
+                            "soloistName": "Batiashvili, Lisa",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50057*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 2, C MINOR, OP.17 (LITTLE RUSSIAN)",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2007"
+    },
+    {
+        "program": {
+            "id": "66bf2247-ae0d-4c1b-a5ce-bdf6532847ee-0.1",
+            "programID": "10693",
+            "orchestra": "New York Philharmonic",
+            "season": "2011-12",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2011-09-21T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "52626*",
+                    "composerName": "Barber,  Samuel",
+                    "workTitle": "SCHOOL FOR SCANDAL OVERTURE",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "9003*4",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "TANNHAUSER, WWV 70",
+                    "movement": "\"Dich Teure Halle,\" Elizabeth (aria), Act II, scene i",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Voigt, Deborah",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51003*",
+                    "composerName": "Barber,  Samuel",
+                    "workTitle": "ANDROMACHE'S FAREWELL, OP.39",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Voigt, Deborah",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9003*6",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "TANNHAUSER, WWV 70",
+                    "movement": "Overture [Dresden]",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "1898*4",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "SALOME, OP. 54",
+                    "movement": "Intermezzo",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "1898*1",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "SALOME, OP. 54",
+                    "movement": "Dance of the Seven Veils",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "1898*2",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "SALOME, OP. 54",
+                    "movement": "Final Scene: \"Ah, du wolltest mich nicht deinen Mund kuessen lassen, Jokanaan!\"",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Voigt, Deborah",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2011"
+    },
+    {
+        "program": {
+            "id": "2286a2a1-a8e7-413d-b1c3-e6244af64dc1-0.1",
+            "programID": "11894",
+            "orchestra": "New York Philharmonic",
+            "season": "2012-13",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2012-09-19T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2012-09-20T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2012-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2012-09-22T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "8649*",
+                    "composerName": "Kurtag [Kurtág],  Georgy [György]",
+                    "workTitle": "QUASI UNA FANTASIA",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Andsnes, Leif Ove",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1847*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Andsnes, Leif Ove",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53708*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "SACRE DU PRINTEMPS, LE",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2012"
+    },
+    {
+        "program": {
+            "id": "e4a8a8ac-0927-4195-9b31-193e245c4a0d-0.1",
+            "programID": "12086",
+            "orchestra": "New York Philharmonic",
+            "season": "2013-14",
+            "concerts": [
+                {
+                    "eventType": "Non-Subscription",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2013-09-20T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Non-Subscription",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2013-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "774*1",
+                    "composerName": "Ligeti,  György [Gyorgy]",
+                    "workTitle": "ATMOSPHERES",
+                    "movement": "2001: A Space Odyssey, cue 1",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "51929*2",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "ALSO SPRACH ZARATHUSTRA, OP. 30",
+                    "movement": "2001: A Space Odyssey, cue 2",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "51034*1",
+                    "composerName": "Ligeti,  György [Gyorgy]",
+                    "workTitle": "REQUIEM",
+                    "movement": "2001: A Space Odyssey, cue 3 (Kyrie)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Musica Sacra",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51929*3",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "ALSO SPRACH ZARATHUSTRA, OP. 30",
+                    "movement": "2001: A Space Odyssey, cue 4",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "2885*2",
+                    "composerName": "Strauss,  Johann, II",
+                    "workTitle": "AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314",
+                    "movement": "2001: A Space Odyssey, cue 5",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "2885*3",
+                    "composerName": "Strauss,  Johann, II",
+                    "workTitle": "AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314",
+                    "movement": "2001: A Space Odyssey, cue 6",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "11116*1",
+                    "composerName": "Ligeti,  György [Gyorgy]",
+                    "workTitle": "LUX AETERNA",
+                    "movement": "2001: A Space Odyssey, cue 7",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "11116*2",
+                    "composerName": "Ligeti,  György [Gyorgy]",
+                    "workTitle": "LUX AETERNA",
+                    "movement": "2001: A Space Odyssey, cue 8",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Musica Sacra",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51034*2",
+                    "composerName": "Ligeti,  György [Gyorgy]",
+                    "workTitle": "REQUIEM",
+                    "movement": "2001: A Space Odyssey, cue 9 (Kyrie)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Musica Sacra",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "50821*9",
+                    "composerName": "Khachaturian,  Aram",
+                    "workTitle": "GAYANE, SUITE NO. 1, OP. 53",
+                    "movement": "2001: A Space Odyssey, cue 10 (Gayaneh's Adagio)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "11119*1",
+                    "composerName": "Torch,  Sidney",
+                    "workTitle": "OFF BEATS MOOD",
+                    "movement": "2001: A Space Odyssey, cue 11 (called BBC Signature tune, heard on sound track, not played by orchestra)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "50821*10",
+                    "composerName": "Khachaturian,  Aram",
+                    "workTitle": "GAYANE, SUITE NO. 1, OP. 53",
+                    "movement": "2001: A Space Odyssey, cue 12 (Gayaneh's Adagio)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "774*2",
+                    "composerName": "Ligeti,  György [Gyorgy]",
+                    "workTitle": "ATMOSPHERES",
+                    "movement": "2001: A Space Odyssey, cue 13",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "51034*3",
+                    "composerName": "Ligeti,  György [Gyorgy]",
+                    "workTitle": "REQUIEM",
+                    "movement": "2001: A Space Odyssey, cue 14 (Kyrie)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Musica Sacra",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "774*3",
+                    "composerName": "Ligeti,  György [Gyorgy]",
+                    "workTitle": "ATMOSPHERES",
+                    "movement": "2001: A Space Odyssey, cue 15",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "3420*1",
+                    "composerName": "Ligeti,  György [Gyorgy]",
+                    "workTitle": "AVENTURES/NOUVELLES AVENTURES",
+                    "movement": "2001: A Space Odyssey, cue 16 (on sound track, not played by orchestra)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "51929*4",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "ALSO SPRACH ZARATHUSTRA, OP. 30",
+                    "movement": "2001: A Space Odyssey, cue 17",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "2885*4",
+                    "composerName": "Strauss,  Johann, II",
+                    "workTitle": "AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314",
+                    "movement": "2001: A Space Odyssey, cue 18",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2013"
+    },
+    {
+        "program": {
+            "id": "808dadff-91ae-49fb-bdb3-6e606fc56460-0.1",
+            "programID": "12059",
+            "orchestra": "New York Philharmonic",
+            "season": "2015-16",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2015-09-21T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "11768*",
+                    "composerName": "Rota,  Nino",
+                    "workTitle": "GODFATHER, THE (COMPLETE)",
+                    "conductorName": "Freer, Justin",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2015"
+    },
+    {
+        "program": {
+            "id": "13502f64-b501-4669-ba04-65bb6f832e70-0.1",
+            "programID": "13334",
+            "orchestra": "New York Philharmonic",
+            "season": "2016-17",
+            "concerts": [
+                {
+                    "eventType": "Non-Subscription",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2016-09-21T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "12143*",
+                    "composerName": "Corigliano,  John, Jr.",
+                    "workTitle": "STOMP (FOR ORCHESTRA)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "2143*",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "CONCERTO, PIANO, F MAJOR",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Diehl, Aaron",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2877*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2016"
+    },
+    {
+        "program": {
+            "id": "c606a437-384a-40c7-9cb7-7c41e99b6cec-0.1",
+            "programID": "14324",
+            "orchestra": "New York Philharmonic",
+            "season": "2018-19",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2018-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "12676*",
+                    "composerName": "Fure,  Ashley",
+                    "workTitle": "FILAMENT",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": [
+                        {
+                            "soloistName": "Heller, Rebekah",
+                            "soloistInstrument": "Bassoon",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Wooley, Nate",
+                            "soloistInstrument": "Trumpet",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Lopez, Brandon",
+                            "soloistInstrument": "Double Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Constellation Chor",
+                            "soloistInstrument": "Moving Voices",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "3548*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": [
+                        {
+                            "soloistName": "Trifonov, Daniil",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "12796*4",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SONATA, PIANO, NO. 18, E-FLAT MAJOR, OP. 31, NO.3 (HUNT)",
+                    "movement": "Presto con fuoco",
+                    "soloists": [
+                        {
+                            "soloistName": "Trifonov, Daniil",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53708*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "SACRE DU PRINTEMPS, LE",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "9001*12",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "WALKURE, DIE, WWV 86B",
+                    "movement": "Ride of the Valkyries, Act III",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2018"
+    },
+    {
+        "program": {
+            "id": "7b3da945-828b-4f45-9bb5-3d0dc5f83b4b-0.1",
+            "programID": "14539",
+            "orchestra": "New York Philharmonic",
+            "season": "2019-20",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2019-09-19T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2019-09-20T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2019-09-21T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "12856*",
+                    "composerName": "Glass,  Philip",
+                    "workTitle": "KING LEAR OVERTURE",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "51019*",
+                    "composerName": "Barber,  Samuel",
+                    "workTitle": "KNOXVILLE: SUMMER OF 1915, OP.24",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": [
+                        {
+                            "soloistName": "O'Hara, Kelli",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53780*1",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
+                    "movement": "The Montagues and the Capulets",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "53780*2",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
+                    "movement": "The Child Juliet",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "53778*4",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS",
+                    "movement": "Minuet",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "53778*5",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS",
+                    "movement": "Masks",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "53780*4",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
+                    "movement": "Dance of the Five Couples",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "53780*5",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
+                    "movement": "Romeo and Juliet before Parting",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "53780*6",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
+                    "movement": "Dance of the Girls with Lilies",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "53780*7",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
+                    "movement": "Romeo at the Tomb of Juliet",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "53778*7",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS",
+                    "movement": "The Death of Tybalt",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2019"
+    }
+]

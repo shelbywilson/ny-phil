@@ -1,0 +1,4649 @@
+[
+    {
+        "program": {
+            "id": "e1522ae2-d7f2-4ac1-9b3d-c96bb89533de-0.1",
+            "programID": "9913",
+            "orchestra": "New York Symphony",
+            "season": "1900-01",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Philadelphia, PA",
+                    "Venue": "Willow Grove Park",
+                    "Date": "1901-06-26T05:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9003*6",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "TANNHAUSER, WWV 70",
+                    "movement": "Overture [Dresden]",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "3196*2",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SUITE NO. 3, G MAJOR, OP. 55",
+                    "movement": "Valse mélancolique (Allegro moderato)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "3196*1",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SUITE NO. 3, G MAJOR, OP. 55",
+                    "movement": "Élégie (Andante molto cantabile)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "8300*",
+                    "composerName": "Bach,  Johann  Sebastian",
+                    "workTitle": "GAVOTTE, D MAJOR (ARR. Damrosch)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "642*8",
+                    "composerName": "Puccini,  Giacomo",
+                    "workTitle": "BOHEME, LA",
+                    "movement": "Selections (unspecified)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "51461*",
+                    "composerName": "Bizet,  Georges",
+                    "workTitle": "L'ARLESIENNE: SUITE NO. 1",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "5801*1",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+                    "movement": "Overture",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "52551*5",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "WESENDONCK LIEDER, WWV 91 (ARR. Mottl)",
+                    "movement": "\"Traume\"",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": [
+                        {
+                            "soloistName": "Mannes, David",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10708*",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "TANNHAUSER: SONG TO THE EVENING STAR (TROMBONE/ORCH) (ARR. Unknown)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": [
+                        {
+                            "soloistName": "Pfeiffenschneider, Justus, Jr.",
+                            "soloistInstrument": "Trombone",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9369*",
+                    "composerName": "Chabrier,  Emmanuel",
+                    "workTitle": "FÊTE POLONAISE",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "9319*1",
+                    "composerName": "Gluck,  Christoph  Willibald",
+                    "workTitle": "BALLET SUITE NO. 2 (ARR. Mottl)",
+                    "movement": "March (from Alceste) - Menuet (from Iphigénie en Aulide)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "9319*3",
+                    "composerName": "Gluck,  Christoph  Willibald",
+                    "workTitle": "BALLET SUITE NO. 2 (ARR. Mottl)",
+                    "movement": "Slave Dance (from Iphigénie en Aulide)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "9370*",
+                    "composerName": "Waldteufel,  Emil",
+                    "workTitle": "GAÎTÉ WALTZ, OP. 164",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1901"
+    },
+    {
+        "program": {
+            "id": "fd328306-127f-4ba6-b406-a90285fabfb4-0.1",
+            "programID": "9912",
+            "orchestra": "New York Symphony",
+            "season": "1900-01",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Philadelphia, PA",
+                    "Venue": "Willow Grove Park",
+                    "Date": "1901-06-26T05:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9337*1",
+                    "composerName": "Auber,  Daniel-François",
+                    "workTitle": "MUETTE DE PORTICI (MASANIELLO)",
+                    "movement": "Overture",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "9367*16",
+                    "composerName": "Schumann,  Robert",
+                    "workTitle": "ALBUMBLÄTTER, OP. 124",
+                    "movement": "No. 16, \"Schlummerlied\"",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "9324*",
+                    "composerName": "Traditional,",
+                    "workTitle": "WALTZ (UNKNOWN)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "474*7",
+                    "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+                    "workTitle": "HENRY VIII: BALLET SUITE",
+                    "movement": "Scotch Idyl",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "474*9",
+                    "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+                    "workTitle": "HENRY VIII: BALLET SUITE",
+                    "movement": "Irish Jig",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "2978*",
+                    "composerName": "Schubert,  Franz",
+                    "workTitle": "MARCHE MILITAIRE, D.733 (ARR. Unspecified)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "9187*1",
+                    "composerName": "Weber,  Carl  Maria Von",
+                    "workTitle": "EURYANTHE, OP. 81, J. 291",
+                    "movement": "Overture",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "2819*",
+                    "composerName": "Schubert,  Franz",
+                    "workTitle": "SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "8999*9",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "LOHENGRIN",
+                    "movement": "Act III: Introduction",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "9283*",
+                    "composerName": "Haydn,  Franz  Joseph",
+                    "workTitle": "SERENADE (UNSPECIFIED)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "9368*",
+                    "composerName": "Rubinstein,  Anton",
+                    "workTitle": "PILGRIM FANTASY",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "9358*",
+                    "composerName": "Rubinstein,  Anton",
+                    "workTitle": "CAVALRY TROT",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1901"
+    },
+    {
+        "program": {
+            "id": "d5ef48ba-60ed-4e8c-a8de-4565924a22d0-0.1",
+            "programID": "12317",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1933-34",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1934-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52364*1",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "EGMONT, OP.84",
+                    "movement": "Overture",
+                    "conductorName": "Iturbi, Jose",
+                    "soloists": []
+                },
+                {
+                    "ID": "52446*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+                    "conductorName": "Iturbi, Jose",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "11029*",
+                    "composerName": "Chavarri,  Eduardo  Lopez",
+                    "workTitle": "ACUARELAS",
+                    "conductorName": "Iturbi, Jose",
+                    "soloists": []
+                },
+                {
+                    "ID": "50546*2",
+                    "composerName": "Granados,  Enrique",
+                    "workTitle": "GOYESCAS",
+                    "movement": "Intermezzo",
+                    "conductorName": "Iturbi, Jose",
+                    "soloists": []
+                },
+                {
+                    "ID": "11775*",
+                    "composerName": "Falla,  Manuel  de",
+                    "workTitle": "THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2",
+                    "conductorName": "Iturbi, Jose",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1934"
+    },
+    {
+        "program": {
+            "id": "f39d1cfb-a835-4d62-ac39-1cb0df8c3ac0-0.1",
+            "programID": "12271",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1934-35",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1935-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Iturbi, Jose",
+                    "soloists": []
+                },
+                {
+                    "ID": "9007*17",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "MEISTERSINGER, DIE, WWV 96",
+                    "movement": "Prelude to Act I",
+                    "conductorName": "Iturbi, Jose",
+                    "soloists": []
+                },
+                {
+                    "ID": "52446*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+                    "conductorName": "Iturbi, Jose",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52502*",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
+                    "conductorName": "Iturbi, Jose",
+                    "soloists": [
+                        {
+                            "soloistName": "Spalding, Albert",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10637*",
+                    "composerName": "Sarasate,  Pablo  de",
+                    "workTitle": "SPANISCHE TANZE, OP. 23 (VIOLIN/PIANO)",
+                    "soloists": [
+                        {
+                            "soloistName": "Iturbi, Jose",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Spalding, Albert",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "11775*",
+                    "composerName": "Falla,  Manuel  de",
+                    "workTitle": "THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2",
+                    "conductorName": "Iturbi, Jose",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1935"
+    },
+    {
+        "program": {
+            "id": "5021fcb6-cfc2-44d3-af9d-e9d75a05df42-0.1",
+            "programID": "12220",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1935-36",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1936-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "8856*1",
+                    "composerName": "Glinka,  Mikhail",
+                    "workTitle": "RUSLAN AND LUDMILA",
+                    "movement": "Overture",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "50064*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2331*",
+                    "composerName": "Rimsky-Korsakov,  Nikolai",
+                    "workTitle": "SCHEHERAZADE, OP. 35",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1936"
+    },
+    {
+        "program": {
+            "id": "8144ff42-6b4e-419d-a27f-3f7a677286a9-0.1",
+            "programID": "12168",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1936-37",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1937-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3395*",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+                    "conductorName": "Golschmann, Vladimir",
+                    "soloists": []
+                },
+                {
+                    "ID": "50335*",
+                    "composerName": "Franck,  César",
+                    "workTitle": "SYMPHONY IN D MINOR",
+                    "conductorName": "Golschmann, Vladimir",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51461*",
+                    "composerName": "Bizet,  Georges",
+                    "workTitle": "L'ARLESIENNE: SUITE NO. 1",
+                    "conductorName": "Golschmann, Vladimir",
+                    "soloists": []
+                },
+                {
+                    "ID": "8864*13",
+                    "composerName": "Musorgsky,  Modest",
+                    "workTitle": "KHOVANSHCHINA (ARR. Rimsky-Korsakov)",
+                    "movement": "Prelude",
+                    "conductorName": "Golschmann, Vladimir",
+                    "soloists": []
+                },
+                {
+                    "ID": "10973*3",
+                    "composerName": "McDonald,  Harl",
+                    "workTitle": "RHUMBA SYMPHONY",
+                    "movement": "Rhumba",
+                    "conductorName": "Golschmann, Vladimir",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1937"
+    },
+    {
+        "program": {
+            "id": "fe6b9579-fb14-46b9-a861-71995fab46a2-0.1",
+            "programID": "11875",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1937-38",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1938-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9194*1",
+                    "composerName": "Smetana,  Bedrich",
+                    "workTitle": "BARTERED BRIDE, THE",
+                    "movement": "Overture (\"Overture to a Comedy\")",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "53078*",
+                    "composerName": "Schumann,  Robert",
+                    "workTitle": "SYMPHONY NO. 4, D MINOR, OP. 120",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2331*",
+                    "composerName": "Rimsky-Korsakov,  Nikolai",
+                    "workTitle": "SCHEHERAZADE, OP. 35",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1938"
+    },
+    {
+        "program": {
+            "id": "248ba9e0-0082-402f-912c-42c0f1c1f159-0.1",
+            "programID": "11678",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1938-39",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1939-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51807*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
+                    "conductorName": "Freccia, Massimo",
+                    "soloists": []
+                },
+                {
+                    "ID": "3685*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
+                    "conductorName": "Freccia, Massimo",
+                    "soloists": []
+                },
+                {
+                    "ID": "2246*2",
+                    "composerName": "Goldmark,  Karl",
+                    "workTitle": "CONCERTO, VIOLIN, A MINOR, OP. 28",
+                    "movement": "Air: Andante",
+                    "conductorName": "Freccia, Massimo",
+                    "soloists": [
+                        {
+                            "soloistName": "Virovai, Robert",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51870*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+                    "conductorName": "Freccia, Massimo",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1939"
+    },
+    {
+        "program": {
+            "id": "adf1a42b-bf22-4ea1-adac-072a1db9c167-0.1",
+            "programID": "11586",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1939-40",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1940-06-26T04:00:00Z",
+                    "Time": "8:45PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51807*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
+                    "conductorName": "Rodzinski, Artur",
+                    "soloists": []
+                },
+                {
+                    "ID": "50247*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "CONCERTO, VIOLIN AND CELLO, OP. 102 (DOUBLE)",
+                    "conductorName": "Rodzinski, Artur",
+                    "soloists": [
+                        {
+                            "soloistName": "Piastro, Mishel",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schuster, Joseph",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51884*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
+                    "conductorName": "Rodzinski, Artur",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1940"
+    },
+    {
+        "program": {
+            "id": "aab327fd-0d4e-4a0b-8cd8-d9733c4cdada-0.1",
+            "programID": "11536",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1940-41",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1941-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1975*6",
+                    "composerName": "Chopin,  Frédéric",
+                    "workTitle": "SYLPHIDES, LES (BALLET) (ARR. Glazunov)",
+                    "movement": "Nocturne",
+                    "conductorName": "Allers, Franz",
+                    "soloists": [
+                        {
+                            "soloistName": "Toumanova, Tamara",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Krassovska, Nathalie",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Grantzeva, Tania",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Korjinska",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Crabtree, Leila",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Flotat, Tatiana",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Mladova, Milada",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Kelepovska, Nathalie",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Geleznova, Katia",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Scarpova, Anna",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Semenova, Tania",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Marra, Eleonora",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Hill, Yvonne",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Brown, Vida",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Thomas",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Williams, Karel",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Youskevitch, Igor",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1975*5",
+                    "composerName": "Chopin,  Frédéric",
+                    "workTitle": "SYLPHIDES, LES (BALLET) (ARR. Glazunov)",
+                    "movement": "Valse",
+                    "conductorName": "Allers, Franz",
+                    "soloists": [
+                        {
+                            "soloistName": "Grantzeva, Tania",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1975*2",
+                    "composerName": "Chopin,  Frédéric",
+                    "workTitle": "SYLPHIDES, LES (BALLET) (ARR. Glazunov)",
+                    "movement": "Mazurka",
+                    "conductorName": "Allers, Franz",
+                    "soloists": [
+                        {
+                            "soloistName": "Youskevitch, Igor",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1975*4",
+                    "composerName": "Chopin,  Frédéric",
+                    "workTitle": "SYLPHIDES, LES (BALLET) (ARR. Glazunov)",
+                    "movement": "Prelude",
+                    "conductorName": "Allers, Franz",
+                    "soloists": [
+                        {
+                            "soloistName": "Krassovska, Nathalie",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1975*1",
+                    "composerName": "Chopin,  Frédéric",
+                    "workTitle": "SYLPHIDES, LES (BALLET) (ARR. Glazunov)",
+                    "movement": "Pas de deux",
+                    "conductorName": "Allers, Franz",
+                    "soloists": [
+                        {
+                            "soloistName": "Toumanova, Tamara",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Youskevitch, Igor",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1975*7",
+                    "composerName": "Chopin,  Frédéric",
+                    "workTitle": "SYLPHIDES, LES (BALLET) (ARR. Glazunov)",
+                    "movement": "Waltz",
+                    "conductorName": "Allers, Franz",
+                    "soloists": [
+                        {
+                            "soloistName": "Toumanova, Tamara",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Krassovska, Nathalie",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Grantzeva, Tania",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Youskevitch, Igor",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "3557*",
+                    "composerName": "Rimsky-Korsakov,  Nikolai",
+                    "workTitle": "SCHEHERAZADE (BALLET)",
+                    "conductorName": "Allers, Franz",
+                    "soloists": [
+                        {
+                            "soloistName": "Lauret, Jeanette",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Eglevsky, Andre",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Yazvinsky, Jean",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Kokitch, Casimir",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Semenoff, Simon",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Krassovska, Nathalie",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Marra, Eleonora",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Mladova, Milada",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Korjinska",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Geleznova, Katia",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Kelepovska, Nathalie",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Semenova, Tania",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Chamie, Tatiana",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Williams, Karel",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Brown, Vida",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Hill, Yvonne",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Flotat, Tatiana",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Lacca",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Crabtree, Leila",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Etheridge, Dorothy",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Grantzeva, Tania",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Roudenko, Lubov",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Scarpova, Anna",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Hightower, Rosella",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Katcharoff, Michel",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Gibson",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Tomin",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Irwin",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Armour, Thomas",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Volkoff, Chris",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Kostenko, Vladimir",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Kosloff, Alexis",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Markoff, Mischa",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Karnakovsky, Kari",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Starbuck, James",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Goudovitch, Alexandre",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Youroff",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "7955*",
+                    "interval": "Intermission-Second",
+                    "soloists": []
+                },
+                {
+                    "ID": "3484*",
+                    "composerName": "Strauss,  Johann, II",
+                    "workTitle": "AN DER SCHONEN, BLAUEN DONAU (BALLET - THE BLUE DANUBE) (ARR. Desormiere [Désormière])",
+                    "conductorName": "Allers, Franz",
+                    "soloists": [
+                        {
+                            "soloistName": "Massine, Leonide",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Kostenko, Vladimir",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Hill, Yvonne",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Krassovska, Nathalie",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Lacca",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Etheridge, Dorothy",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Roudenko, Lubov",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Semenoff, Simon",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Kosloff, Alexis",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Kokitch, Casimir",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Starbuck, James",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Volkoff, Chris",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Lauret, Jeanette",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Grantzeva, Tania",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Kelepovska, Nathalie",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Hightower, Rosella",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Mladova, Milada",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Geleznova, Katia",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Scarpova, Anna",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Chamie, Tatiana",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Crabtree, Leila",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Irwin",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Gibson",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Tomin",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Karnakovsky, Kari",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Danilova, Alexandra Dionisyevna",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Franklin, Frederic",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Beresoff, Nicolas",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Ailey",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1941"
+    },
+    {
+        "program": {
+            "id": "201f47ad-d82f-4c5d-b486-c8962ecb6d4a-0.1",
+            "programID": "11494",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1941-42",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1942-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "53953*1",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "PASTOR FIDO, IL (THE FAITHFUL SHEPHERD): SUITE (ARR. Beecham)",
+                    "movement": "Introduction and Fugue",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "53953*2",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "PASTOR FIDO, IL (THE FAITHFUL SHEPHERD): SUITE (ARR. Beecham)",
+                    "movement": "Adagio",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "53953*3",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "PASTOR FIDO, IL (THE FAITHFUL SHEPHERD): SUITE (ARR. Beecham)",
+                    "movement": "Gavotte",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "53953*7",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "PASTOR FIDO, IL (THE FAITHFUL SHEPHERD): SUITE (ARR. Beecham)",
+                    "movement": "Finale",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "51642*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "SYMPHONY NO. 35, D MAJOR, K.385, \"HAFFNER\"",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1942"
+    },
+    {
+        "program": {
+            "id": "3e45030e-a9fa-4d7a-8259-654c6b8f81ed-0.1",
+            "programID": "10741",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1942-43",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1943-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1685*",
+                    "composerName": "Rimsky-Korsakov,  Nikolai",
+                    "workTitle": "CAPPRICCIO ESPAGNOL (BALLET)",
+                    "conductorName": "Dorati, Antal",
+                    "soloists": [
+                        {
+                            "soloistName": "American Ballet Theatre",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "1692*",
+                    "composerName": "Respighi,  Ottorino",
+                    "workTitle": "THREE VIRGINS AND A DEVIL (BALLET)",
+                    "conductorName": "Dorati, Antal",
+                    "soloists": [
+                        {
+                            "soloistName": "American Ballet Theatre",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "7955*",
+                    "interval": "Intermission-Second",
+                    "soloists": []
+                },
+                {
+                    "ID": "1697*",
+                    "composerName": "Adam,  Adolphe  Charles",
+                    "workTitle": "GISELLE (BALLET) (ARR. Byrns)",
+                    "conductorName": "Dorati, Antal",
+                    "soloists": [
+                        {
+                            "soloistName": "American Ballet Theatre",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1943"
+    },
+    {
+        "program": {
+            "id": "c7784c91-e184-4420-bb47-7bcc07fb8599-0.1",
+            "programID": "10786",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1943-44",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1944-06-26T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1944-06-27T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "50373*",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "AIDA",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": [
+                        {
+                            "soloistName": "D'Angelo, Louis",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Castagna, Bruna",
+                            "soloistInstrument": "Contralto",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Milanov, Zinka",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Baum, Kurt",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Moscona, Nicola",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Sved, Alexander",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "de Cesare, Luigi",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Phillipps, Marie",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1944"
+    },
+    {
+        "program": {
+            "id": "ab7098e1-4609-4ea4-9a1d-16c89e763ed8-0.1",
+            "programID": "10813",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1944-45",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1945-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2017*",
+                    "composerName": "Bach,  Johann  Sebastian",
+                    "workTitle": "CHACONNE (ARR. Steinberg)",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "52429*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 1 IN C MAJOR, OP.21",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51870*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1945"
+    },
+    {
+        "program": {
+            "id": "91c94115-7403-4f42-8cd4-fda6b0f15337-0.1",
+            "programID": "10854",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1945-46",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1946-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "53732*",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "SYMPHONY NO. 1, OP. 25 (CLASSICAL)",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "1568*",
+                    "composerName": "Copland,  Aaron",
+                    "workTitle": "APPALACHIAN SPRING SUITE (FULL ORCH.)",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "4012*",
+                    "composerName": "Milhaud,  Darius",
+                    "workTitle": "SUITE FRANÇAISE, OP. 248",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53254*",
+                    "composerName": "Sibelius,  Jean",
+                    "workTitle": "SYMPHONY NO. 2, D MAJOR, OP. 43",
+                    "conductorName": "Smallens, Alexander",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1946"
+    },
+    {
+        "program": {
+            "id": "ffea5897-20ab-4c4c-844c-db76fa47adfc-0.1",
+            "programID": "10891",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1946-47",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1947-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52076*",
+                    "composerName": "Haydn,  Franz  Joseph",
+                    "workTitle": "SYMPHONY NO.  88, G MAJOR",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "2337*",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "XERXES: LARGO",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Anderson, Marian",
+                            "soloistInstrument": "Contralto",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8203*7",
+                    "composerName": "Massenet,  Jules",
+                    "workTitle": "HERODIADE",
+                    "movement": "\"Ne me refuse pas\" (aria)",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Anderson, Marian",
+                            "soloistInstrument": "Contralto",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52299*",
+                    "composerName": "Copland,  Aaron",
+                    "workTitle": "DANZON CUBANO",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "6046*6",
+                    "composerName": "Bernstein,  Leonard",
+                    "workTitle": "FANCY FREE",
+                    "movement": "Three Dance Variations [Variation 1 (Galop): Variation 2 (Waltz); Variation 3 (Danzon) ]",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "2341*",
+                    "composerName": "Traditional,",
+                    "workTitle": "HEAV'N, HEAV'N (ARR. Burleigh)",
+                    "soloists": [
+                        {
+                            "soloistName": "Anderson, Marian",
+                            "soloistInstrument": "Contralto",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Rupp, Franz",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2347*",
+                    "composerName": "Burleigh,  Henry [Harry]  Thacker",
+                    "workTitle": "DIN'T IT RAIN",
+                    "soloists": [
+                        {
+                            "soloistName": "Anderson, Marian",
+                            "soloistInstrument": "Contralto",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Rupp, Franz",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2353*",
+                    "composerName": "Traditional,",
+                    "workTitle": "SPIRITUAL: SOMETIMES I FEEL LIKE A MOTHERLESS CHILD (ARR. Brown)",
+                    "soloists": [
+                        {
+                            "soloistName": "Anderson, Marian",
+                            "soloistInstrument": "Contralto",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Rupp, Franz",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2354*",
+                    "composerName": "Traditional,",
+                    "workTitle": "HONOR, HONOR",
+                    "soloists": [
+                        {
+                            "soloistName": "Anderson, Marian",
+                            "soloistInstrument": "Contralto",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Rupp, Franz",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1947"
+    },
+    {
+        "program": {
+            "id": "989f2fb7-e19a-4c28-93e3-5180fc149df2-0.1",
+            "programID": "10935",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1947-48",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1948-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "6709*16",
+                    "composerName": "Weber,  Carl  Maria Von",
+                    "workTitle": "FREISCHUTZ, DER",
+                    "movement": "Overture",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": []
+                },
+                {
+                    "ID": "8203*2",
+                    "composerName": "Massenet,  Jules",
+                    "workTitle": "HERODIADE",
+                    "movement": "\"Vision fugitive,\" Hérode (aria)",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": [
+                        {
+                            "soloistName": "Morgan, Mac",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10831*2",
+                    "composerName": "Herbert,  Victor",
+                    "workTitle": "EILEEN",
+                    "movement": "\"Thine alone\" (solo)",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": [
+                        {
+                            "soloistName": "Morgan, Mac",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "50826*5",
+                    "composerName": "Khachaturian,  Aram",
+                    "workTitle": "GAYANE, SUITE NO. 3, OP. 55",
+                    "movement": "Sabre Dance",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": []
+                },
+                {
+                    "ID": "2602*1",
+                    "composerName": "Berlin,  Irving",
+                    "workTitle": "MEDLEY (ARR. Siday)",
+                    "movement": "Always",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": []
+                },
+                {
+                    "ID": "2602*2",
+                    "composerName": "Berlin,  Irving",
+                    "workTitle": "MEDLEY (ARR. Siday)",
+                    "movement": "Remember",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": []
+                },
+                {
+                    "ID": "5801*2",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+                    "movement": "1. Scherzo: Allegro vivace",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": []
+                },
+                {
+                    "ID": "5801*8",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+                    "movement": "7. Nocturne: Andante tranquillo",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": []
+                },
+                {
+                    "ID": "5801*10",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+                    "movement": "9. Wedding March: Allegro vivace",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2605*",
+                    "composerName": "Gillis,  Don",
+                    "workTitle": "SYMPHONY FIVE-AND-ONE-HALF (A SYMPHONY FOR FUN)",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": []
+                },
+                {
+                    "ID": "1264*5",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "OTELLO",
+                    "movement": "\"Mia madre..ancella\" (Willow Song), Desdemona (aria), Act IV",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": [
+                        {
+                            "soloistName": "Della Chiesa, Vivian",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8957*15",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "MARRIAGE OF FIGARO, THE, K.492",
+                    "movement": "\"Voi che sapete,\" Cherubino, Act II, scene ii",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": [
+                        {
+                            "soloistName": "Della Chiesa, Vivian",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2316*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "BOLERO [BOLÉRO]",
+                    "conductorName": "Lavalle, Paul",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1948"
+    },
+    {
+        "program": {
+            "id": "ea83c303-f19d-4cbf-84b7-7a1b6201356a-0.1",
+            "programID": "10830",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1949-50",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1950-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1914*2",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "BENVENUTO CELLINI",
+                    "movement": "Overture",
+                    "conductorName": "Carvalho, Eleazar De",
+                    "soloists": []
+                },
+                {
+                    "ID": "50064*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+                    "conductorName": "Carvalho, Eleazar De",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52330*",
+                    "composerName": "Copland,  Aaron",
+                    "workTitle": "OUTDOOR OVERTURE",
+                    "conductorName": "Carvalho, Eleazar De",
+                    "soloists": []
+                },
+                {
+                    "ID": "3685*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
+                    "conductorName": "Carvalho, Eleazar De",
+                    "soloists": [
+                        {
+                            "soloistName": "Milstein, Nathan",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1950"
+    },
+    {
+        "program": {
+            "id": "686e9a43-4a9e-4303-bd1b-e9a5f6352cfb-0.1",
+            "programID": "11055",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1951-52",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1952-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "8847*",
+                    "composerName": "Bizet,  Georges",
+                    "workTitle": "CARMEN",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": [
+                        {
+                            "soloistName": "Miller, Mildred",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Tucker, Richard",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Malbin, Elaine",
+                            "soloistInstrument": "Singer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Guarrera, Frank",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Bate, Marden",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Sacks, Jerome",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Lang, Marcia",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Bedrick, Norma",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "McCollum, John",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Ringland, Earl",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1952"
+    },
+    {
+        "program": {
+            "id": "d7e685c4-0f2e-44a9-97db-9efe11a46a57-0.1",
+            "programID": "11101",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1953-54",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1954-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51651*",
+                    "composerName": "Rimsky-Korsakov,  Nikolai",
+                    "workTitle": "CAPRICCIO ESPAGNOL, OP. 34",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "8916*10",
+                    "composerName": "Puccini,  Giacomo",
+                    "workTitle": "TOSCA",
+                    "movement": "\"Vissi d'arte,\" Tosca (aria), Act II",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Kirsten, Dorothy",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "6505*1",
+                    "composerName": "Charpentier,  Gustave",
+                    "workTitle": "LOUISE",
+                    "movement": "\"Depuis le jour\"",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Kirsten, Dorothy",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8958*3",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SWAN LAKE: BALLET",
+                    "movement": "Wedding Dance, Act III, No. 16",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "8958*1",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SWAN LAKE: BALLET",
+                    "movement": "Valse (Waltz) [Act I, No. 2]",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "8958*30",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SWAN LAKE: BALLET",
+                    "movement": "Voyage of the Swans",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Rosenker, Michael",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Stern, Carl",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8958*22",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SWAN LAKE: BALLET",
+                    "movement": "'Finale: Sujet, Andante,' Act I, No. 9",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50350*",
+                    "composerName": "Grofe [Grofé],  Ferde",
+                    "workTitle": "MISSISSIPPI SUITE",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "1966*1",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "ATALANTA",
+                    "movement": "\"Care Selve,\" Meleagro (aria)",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Kirsten, Dorothy",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "3175*",
+                    "composerName": "Rimsky-Korsakov,  Nikolai",
+                    "workTitle": "THE NIGHTINGALE AND THE ROSE",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Kirsten, Dorothy",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1890*3",
+                    "composerName": "Massenet,  Jules",
+                    "workTitle": "MANON",
+                    "movement": "\"Obéissons quand leur voix appelle,\" Manon (gavotte)",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Kirsten, Dorothy",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "6029*",
+                    "composerName": "Scott,  Cyril",
+                    "workTitle": "LOTUS LAND (ORCH) (ARR. Unspecified)",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "7837*13",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "ROSENKAVALIER, DER, OP. 59",
+                    "movement": "Waltzes (Unspecified)",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1954"
+    },
+    {
+        "program": {
+            "id": "0b6fe427-fc76-41ca-9430-f42509c015bf-0.1",
+            "programID": "11137",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1954-55",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1955-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "444*",
+                    "composerName": "Chabrier,  Emmanuel",
+                    "workTitle": "ESPAÑA",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": []
+                },
+                {
+                    "ID": "3427*",
+                    "composerName": "Rodriguez,  Gerardo  Matos",
+                    "workTitle": "LA CUMPARSITA",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": []
+                },
+                {
+                    "ID": "3438*",
+                    "composerName": "de Abreu,  Zequinha",
+                    "workTitle": "TICO-TICO",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": []
+                },
+                {
+                    "ID": "51475*",
+                    "composerName": "Bizet,  Georges",
+                    "workTitle": "CARMEN SUITE NO. 2",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": []
+                },
+                {
+                    "ID": "50332*",
+                    "composerName": "Falla,  Manuel  de",
+                    "workTitle": "NIGHTS IN THE GARDENS OF SPAIN",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": [
+                        {
+                            "soloistName": "Echaniz, José",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "3440*",
+                    "composerName": "D'Artega,  (Alfonso)",
+                    "workTitle": "FIRE AND ICE BALLET",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": []
+                },
+                {
+                    "ID": "51687*2",
+                    "composerName": "Lecuona,  Ernesto",
+                    "workTitle": "ANDALUCIA SUITE",
+                    "movement": "Andaluza",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": []
+                },
+                {
+                    "ID": "51687*6",
+                    "composerName": "Lecuona,  Ernesto",
+                    "workTitle": "ANDALUCIA SUITE",
+                    "movement": "Malagueña",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": []
+                },
+                {
+                    "ID": "3458*",
+                    "composerName": "Harkness,  Rebecca",
+                    "workTitle": "THUNDERBIRD",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": []
+                },
+                {
+                    "ID": "529*",
+                    "composerName": "Monterde,  Bernardino  Bautista",
+                    "workTitle": "VIRGEN DE LA MARCARENA, LA",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": [
+                        {
+                            "soloistName": "Chayres, Nestor",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "3459*",
+                    "composerName": "Yradier,  Sebastian",
+                    "workTitle": "LA GOLODNRINA",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": [
+                        {
+                            "soloistName": "Chayres, Nestor",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "3463*",
+                    "composerName": "Lara,  Agustín",
+                    "workTitle": "GRANADA (ARR. CACCIOLA)",
+                    "conductorName": "D'Artega, (Alfonso)",
+                    "soloists": [
+                        {
+                            "soloistName": "Chayres, Nestor",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2975*",
+                    "composerName": "Falla,  Manuel  de",
+                    "workTitle": "EL AMOR BRUJO: RITUAL FIRE DANCE (SOLO PIANO) (ARR. Falla)",
+                    "soloists": [
+                        {
+                            "soloistName": "Echaniz, José",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1955"
+    },
+    {
+        "program": {
+            "id": "ff52c587-5ee7-4274-adb5-d71f0d8a78d0-0.1",
+            "programID": "11171",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1955-56",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1956-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1228*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "LEONORE OVERTURE NO. 2, OP. 72A",
+                    "conductorName": "Monteux, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "52456*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 8 IN F MAJOR, OP.93",
+                    "conductorName": "Monteux, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52446*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+                    "conductorName": "Monteux, Pierre",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1956"
+    },
+    {
+        "program": {
+            "id": "a4064951-6107-4af9-9bef-7faff9d7d68a-0.1",
+            "programID": "11211",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1956-57",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1957-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "8839*2",
+                    "composerName": "Rossini,  Gioachino",
+                    "workTitle": "WILLIAM TELL",
+                    "movement": "Overture",
+                    "conductorName": "Markevitch, Igor",
+                    "soloists": []
+                },
+                {
+                    "ID": "53646*",
+                    "composerName": "Grieg,  Edvard",
+                    "workTitle": "CONCERTO, PIANO, A MINOR, OP.16",
+                    "conductorName": "Markevitch, Igor",
+                    "soloists": [
+                        {
+                            "soloistName": "Segall, Bernardo",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50025*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "ROMEO AND JULIET, FANTASY-OVERTURE",
+                    "conductorName": "Markevitch, Igor",
+                    "soloists": []
+                },
+                {
+                    "ID": "11775*",
+                    "composerName": "Falla,  Manuel  de",
+                    "workTitle": "THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2",
+                    "conductorName": "Markevitch, Igor",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1957"
+    },
+    {
+        "program": {
+            "id": "79667c86-2981-4835-b08e-d81015786b02-0.1",
+            "programID": "11437",
+            "orchestra": "Stadium-NY Philharmonic",
+            "season": "1962-63",
+            "concerts": [
+                {
+                    "eventType": "Stadium Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Lewisohn Stadium",
+                    "Date": "1963-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2268*",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "CORSAIRE OVERTURE",
+                    "conductorName": "Wallenstein, Alfred",
+                    "soloists": []
+                },
+                {
+                    "ID": "53072*",
+                    "composerName": "Schumann,  Robert",
+                    "workTitle": "SYMPHONY NO. 3, E FLAT MAJOR, OP. 97 (RHENISH)",
+                    "conductorName": "Wallenstein, Alfred",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "9004*14",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "TRISTAN UND ISOLDE, WWV 90",
+                    "movement": "Prelude and Liebestod (with or without soloist)",
+                    "conductorName": "Wallenstein, Alfred",
+                    "soloists": []
+                },
+                {
+                    "ID": "9006*15",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+                    "movement": "PROLOGUE: Dawn",
+                    "conductorName": "Wallenstein, Alfred",
+                    "soloists": []
+                },
+                {
+                    "ID": "9006*17",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+                    "movement": "PROLOGUE: Siegfried's Rhine Journey",
+                    "conductorName": "Wallenstein, Alfred",
+                    "soloists": []
+                },
+                {
+                    "ID": "9007*15",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "MEISTERSINGER, DIE, WWV 96",
+                    "movement": "Act III: Prelude",
+                    "conductorName": "Wallenstein, Alfred",
+                    "soloists": []
+                },
+                {
+                    "ID": "9007*10",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "MEISTERSINGER, DIE, WWV 96",
+                    "movement": "The Dance of the Apprentices and Entrance of the Masters, (chorus), Act III, scene v",
+                    "conductorName": "Wallenstein, Alfred",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1963"
+    },
+    {
+        "program": {
+            "id": "932ec2c8-b3b6-4831-9e40-1d788cd61fd0-0.1",
+            "programID": "774",
+            "orchestra": "New York Philharmonic",
+            "season": "1964-65",
+            "concerts": [
+                {
+                    "eventType": "Promenade",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1965-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51388*",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "CUBAN OVERTURE",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "6332*",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "LET 'EM EAT CAKE: MINE (ARR. Huxley)",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "3219*",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "SHALL WE DANCE: PROMENADE (ORCHESTRA) (ARR. Montenegro)",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "6338*",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "STRIKE UP THE BAND: STRIKE UP THE BAND (ARR. Rose)",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "52134*",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "RHAPSODY, SECOND, PIANO, ORCHESTRA",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Lettvin, Theodore",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "9210*1",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "Act I, Scene 1: Introduction",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "9210*3",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "Summertime, Clara, Act I, scene 1",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Tyler, Veronica",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9210*4",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "A Woman is a Sometime Thing, Jake/Chorus, Act I, scene 1",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Mosley, Robert",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schola Cantorum of NY",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9210*30",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "Come On, Sister, Come On Brother, Act I, scene 2",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "9210*6",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "My Man's Gone Now, Serena/Chorus, Act I, scene 2",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Tyler, Veronica",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schola Cantorum of NY",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9210*11",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "Leavin' for the Promise' Lan', Bess/Chorus, Act II (Train song)",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Tyler, Veronica",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schola Cantorum of NY",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9210*8",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "I Got Plenty o' Nuttin', Porgy/Chorus, Act II, scene 1",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Mosley, Robert",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schola Cantorum of NY",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9210*9",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "Bess, You is My Woman Now, Porgy/Bess, Act II, scene 1",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Mosley, Robert",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Tyler, Veronica",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9210*10",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "Oh, I Can't Sit Down, (Chorus), Act II, scene 1",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Schola Cantorum of NY",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9210*13",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "It Ain't Necessarily So, Sportin' Life/Chorus, Act II, scene 2",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Mosley, Robert",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schola Cantorum of NY",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9210*21",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "There's a Boat Dat's Leavin' Soon for New York, Sportin' Life, Act III, scene 2",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Mosley, Robert",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9210*23",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "Oh Lawd, I'm on My Way, Porgy/Chorus, Act III, scene 3",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Mosley, Robert",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schola Cantorum of NY",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "5263*",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "LADY BE GOOD: FASCINATING RHYTHM (ARR. Glover)",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "7720*3",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "OF THEE I SING",
+                    "movement": "Wintergreen for President",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": []
+                },
+                {
+                    "ID": "9210*9",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS",
+                    "movement": "Bess, You is My Woman Now, Porgy/Bess, Act II, scene 1",
+                    "conductorName": "Kostelanetz, Andre",
+                    "soloists": [
+                        {
+                            "soloistName": "Mosley, Robert",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Tyler, Veronica",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1965"
+    },
+    {
+        "program": {
+            "id": "635be067-1643-482d-b5a7-39fc87e96004-0.1",
+            "programID": "7365",
+            "orchestra": "New York Philharmonic",
+            "season": "1968-69",
+            "concerts": [
+                {
+                    "eventType": "Runout",
+                    "Location": "Holmdel, NJ",
+                    "Venue": "Garden State Arts Center",
+                    "Date": "1969-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Runout",
+                    "Location": "Holmdel, NJ",
+                    "Venue": "Garden State Arts Center",
+                    "Date": "1969-06-27T04:00:00Z",
+                    "Time": "9:00PM"
+                },
+                {
+                    "eventType": "Runout",
+                    "Location": "Holmdel, NJ",
+                    "Venue": "Garden State Arts Center",
+                    "Date": "1969-06-28T04:00:00Z",
+                    "Time": "9:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2268*",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "CORSAIRE OVERTURE",
+                    "conductorName": "Skrowaczewski, Stanislaw",
+                    "soloists": []
+                },
+                {
+                    "ID": "51046*",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "CONCERTO, PIANO, NO. 1, E FLAT MAJOR",
+                    "conductorName": "Skrowaczewski, Stanislaw",
+                    "soloists": [
+                        {
+                            "soloistName": "Cliburn, Van",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50068*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+                    "conductorName": "Skrowaczewski, Stanislaw",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1969"
+    },
+    {
+        "program": {
+            "id": "21eeadd0-a9b6-48eb-8e1b-f5b456f11e6d-0.1",
+            "programID": "6251",
+            "orchestra": "New York Philharmonic",
+            "season": "1970-71",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1971-06-25T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Bronx, NY",
+                    "Venue": "Co-op City",
+                    "Date": "1971-06-26T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1971-06-27T04:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "54065*2",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR (HWV 348)",
+                    "movement": "Adagio e staccato",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "54065*4",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR (HWV 348)",
+                    "movement": "Andante",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "54065*8",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR (HWV 348)",
+                    "movement": "Bourrée — Hornpipe — Bourrée",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "54065*10",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR (HWV 348)",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "54065*6",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR (HWV 348)",
+                    "movement": "Minuet",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "54069*2",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 2 IN D MAJOR",
+                    "movement": "Alla Hornpipe",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "2417*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 1, C MAJOR, OP.15",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": [
+                        {
+                            "soloistName": "Dichter, Misha",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50733*",
+                    "composerName": "Ives,  Charles",
+                    "workTitle": "UNANSWERED QUESTION, THE",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "51450*",
+                    "composerName": "Bernstein,  Leonard",
+                    "workTitle": "WEST SIDE STORY, SYMPHONIC DANCES",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1971"
+    },
+    {
+        "program": {
+            "id": "09c3f699-06f9-444f-b42b-81985bb2c464-0.1",
+            "programID": "3047",
+            "orchestra": "New York Philharmonic",
+            "season": "1974-75",
+            "concerts": [
+                {
+                    "eventType": "Rug Concerts",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1975-06-26T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51288*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "ADAGIO AND FUGUE, STRING QUARTET, C MIN, K.546 (QUART./STR. ORCH.)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "52537*",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "OCTET, STRINGS, E FLAT MAJOR, OP.20",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "508*",
+                    "composerName": "Debussy,  Claude",
+                    "workTitle": "DANSE SACRÉE ET DANSE PROFANE",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": [
+                        {
+                            "soloistName": "Rosen, Myor",
+                            "soloistInstrument": "Harp",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "50759*",
+                    "composerName": "Webern,  Anton  von",
+                    "workTitle": "FIVE MOVEMENTS, STRING ORCHESTRA, OP.5",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "3629*",
+                    "composerName": "Berio,  Luciano",
+                    "workTitle": "CIRCLES",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": [
+                        {
+                            "soloistName": "Bryn-Julson, Phyllis",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Fitz, Richard",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Gottlieb, Gordon",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Lindquist, Karen",
+                            "soloistInstrument": "Harp",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1975"
+    },
+    {
+        "program": {
+            "id": "313cf06a-4c33-4bfb-ad6e-31fd20e2a421-0.1",
+            "programID": "13180",
+            "orchestra": "New York Philharmonic",
+            "season": "1975-76",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "St. Louis, MO",
+                    "Venue": "Muny Opera",
+                    "Date": "1976-06-26T04:00:00Z",
+                    "Time": "8:15PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52908*",
+                    "composerName": "Schuman,  William",
+                    "workTitle": "AMERICAN FESTIVAL OVERTURE",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "50733*",
+                    "composerName": "Ives,  Charles",
+                    "workTitle": "UNANSWERED QUESTION, THE",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "52127*",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "RHAPSODY IN BLUE, PIANO, ORCHESTRA",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Bernstein, Leonard",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52390*",
+                    "composerName": "Copland,  Aaron",
+                    "workTitle": "SYMPHONY NO. 3",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1976"
+    },
+    {
+        "program": {
+            "id": "ac89ebe4-ce2f-4866-88e3-23e8d1a0c075-0.1",
+            "programID": "4839",
+            "orchestra": "New York Philharmonic",
+            "season": "1976-77",
+            "concerts": [
+                {
+                    "eventType": "Rug Concerts",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1977-06-26T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "53656*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "JEU DE CARTES (CARD GAME)",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": []
+                },
+                {
+                    "ID": "51658*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "SYMPHONY NO. 39, E-FLAT MAJOR, K.543",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52429*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 1 IN C MAJOR, OP.21",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1977"
+    },
+    {
+        "program": {
+            "id": "6f1bb72c-e837-44b0-8e99-57f307fa54c4-0.1",
+            "programID": "4454",
+            "orchestra": "New York Philharmonic",
+            "season": "1977-78",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Osaka, JAPAN",
+                    "Venue": "Festival Hall",
+                    "Date": "1978-06-26T04:00:00Z",
+                    "Time": "7:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52389*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": []
+                },
+                {
+                    "ID": "2190*",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "CONCERTO, PIANO, NO. 3, OP. 26, C MAJOR",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": [
+                        {
+                            "soloistName": "Argerich, Martha",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2877*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": []
+                },
+                {
+                    "ID": "9001*12",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "WALKURE, DIE, WWV 86B",
+                    "movement": "Ride of the Valkyries, Act III",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": []
+                },
+                {
+                    "ID": "9007*10",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "MEISTERSINGER, DIE, WWV 96",
+                    "movement": "The Dance of the Apprentices and Entrance of the Masters, (chorus), Act III, scene v",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1978"
+    },
+    {
+        "program": {
+            "id": "ae8ff330-fc0f-4aa7-9e46-87f02ba3bbcf-0.1",
+            "programID": "13205",
+            "orchestra": "New York Philharmonic",
+            "season": "1978-79",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Nagoya, JAPAN",
+                    "Venue": "Shimin Kaikan (Nagoya)",
+                    "Date": "1979-06-26T04:00:00Z",
+                    "Time": "7:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "53068*",
+                    "composerName": "Schumann,  Robert",
+                    "workTitle": "SYMPHONY NO. 1 IN B FLAT MAJOR, OP.38 (SPRING)",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "402*",
+                    "composerName": "Shostakovich,  Dmitri",
+                    "workTitle": "SYMPHONY NO.  5, D MINOR, OP. 47",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1979"
+    },
+    {
+        "program": {
+            "id": "b2114c97-61e9-4cf4-8d16-03b70c0b9c31-0.1",
+            "programID": "13220",
+            "orchestra": "New York Philharmonic",
+            "season": "1979-80",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Vienna, VA",
+                    "Venue": "Filene Center",
+                    "Date": "1980-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2068*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
+                    "conductorName": "Tennstedt, Klaus",
+                    "soloists": [
+                        {
+                            "soloistName": "Kaplan, Mark",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52453*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+                    "conductorName": "Tennstedt, Klaus",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1980"
+    },
+    {
+        "program": {
+            "id": "6da241d0-7962-4fdd-b4ce-f76bd4b9f251-0.1",
+            "programID": "4892",
+            "orchestra": "New York Philharmonic",
+            "season": "1984-85",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Istanbul, TURKEY",
+                    "Venue": "Spor ve Sergi Saravi Hall",
+                    "Date": "1985-06-26T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "53215*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "CARNIVAL OVERTURE, OP.92",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "3345*",
+                    "composerName": "Crumb,  George",
+                    "workTitle": "HAUNTED LANDSCAPE, A",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51468*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "SINFONIA CONCERTANTE, WINDS, E-FLAT MAJOR, K.297B [ANH.9]",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Robinson, Joseph",
+                            "soloistInstrument": "Oboe",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Drucker, Stanley",
+                            "soloistInstrument": "Clarinet",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "LeClair, Judith",
+                            "soloistInstrument": "Bassoon",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Myers, Philip",
+                            "soloistInstrument": "French Horn",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51581*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "51651*4",
+                    "composerName": "Rimsky-Korsakov,  Nikolai",
+                    "workTitle": "CAPRICCIO ESPAGNOL, OP. 34",
+                    "movement": "Scena e canto gitano (Scene and Gypsy Song) (Allegretto)",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "51651*5",
+                    "composerName": "Rimsky-Korsakov,  Nikolai",
+                    "workTitle": "CAPRICCIO ESPAGNOL, OP. 34",
+                    "movement": "Fandango asturiano (Asturian Fandango)",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "6396*",
+                    "composerName": "Strauss,  Johann, II",
+                    "workTitle": "TRITSCH-TRATSCH POLKA, OP. 214",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "3820*",
+                    "composerName": "Sousa,  John  Philip",
+                    "workTitle": "STARS AND STRIPES FOREVER",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1985"
+    },
+    {
+        "program": {
+            "id": "e3356a53-fa06-4475-b4fc-b6a7365024fe-0.1",
+            "programID": "13246",
+            "orchestra": "Musicians from the New York Philharmonic",
+            "season": "1988-89",
+            "concerts": [
+                {
+                    "eventType": "Tour - Chamber",
+                    "Location": "Sheridan, WY",
+                    "Venue": "Sheridan High School",
+                    "Date": "1989-06-26T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "35*",
+                    "composerName": "Martinu [Martinů],  Bohuslav",
+                    "workTitle": "MADRIGALS, THREE, FOR VIOLIN AND VIOLA",
+                    "soloists": [
+                        {
+                            "soloistName": "Kenote, Peter",
+                            "soloistInstrument": "Viola",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Tsypin, Vladimir",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "39*",
+                    "composerName": "Viotti,  Giovanni  Battista",
+                    "workTitle": "SCHERZANDO, VC/CB, D MAJOR",
+                    "soloists": [
+                        {
+                            "soloistName": "Benedetti, Evangeline",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Blossom, William",
+                            "soloistInstrument": "Double Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "5641*",
+                    "composerName": "Nielsen,  Carl",
+                    "workTitle": "SERENATA IN VANO",
+                    "soloists": [
+                        {
+                            "soloistName": "Simenauer, Peter",
+                            "soloistInstrument": "Clarinet",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Carroll, David",
+                            "soloistInstrument": "Bassoon",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Ashby, Jerome",
+                            "soloistInstrument": "French Horn",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Benedetti, Evangeline",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Blossom, William",
+                            "soloistInstrument": "Double Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52425*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SEPTET, E-FLAT MAJOR, OP.20",
+                    "soloists": [
+                        {
+                            "soloistName": "Simenauer, Peter",
+                            "soloistInstrument": "Clarinet",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Carroll, David",
+                            "soloistInstrument": "Bassoon",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Ashby, Jerome",
+                            "soloistInstrument": "French Horn",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Sambuco, Gino",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Kenote, Peter",
+                            "soloistInstrument": "Viola",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Benedetti, Evangeline",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Blossom, William",
+                            "soloistInstrument": "Double Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1989"
+    },
+    {
+        "program": {
+            "id": "8b5602bc-c844-4064-b5f1-25412d853ab6-0.1",
+            "programID": "10000",
+            "orchestra": "Members of NY Philharmonic",
+            "season": "1992-93",
+            "concerts": [
+                {
+                    "eventType": "Parks",
+                    "Location": "Manhattan, NY",
+                    "Venue": "The Great Lawn, Central Park",
+                    "Date": "1993-06-26T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2725*1",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "LUISA MILLER",
+                    "movement": "Overture",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": []
+                },
+                {
+                    "ID": "2725*2",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "LUISA MILLER",
+                    "movement": "\"Oh! fede negar ptessi ... Quando le sere al placido\"",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "6829*",
+                    "composerName": "Mercadante,  Giuseppe  Saverio",
+                    "workTitle": "CONCERTO, FLUTE AND STRINGS",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Griminelli, Andrea",
+                            "soloistInstrument": "Flute",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "5190*1",
+                    "composerName": "Donizetti,  Gaetano",
+                    "workTitle": "LUCIA DI LAMMERMOOR",
+                    "movement": "\"Tombe degl'avi miei\" (or \"Fra poco a me ricovero\"), Edgardo (Aria), Act III, scene ii",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "50389*1",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "VESPRI SICILIANI, I",
+                    "movement": "Overture",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": []
+                },
+                {
+                    "ID": "5640*2",
+                    "composerName": "Cilea,  Francesco",
+                    "workTitle": "ARLESIANA, L'",
+                    "movement": "Lamento di Federico",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51699*",
+                    "composerName": "Leoncavallo,  Ruggero",
+                    "workTitle": "MATTINATA",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "5809*",
+                    "composerName": "Mascagni,  Pietro",
+                    "workTitle": "SERENATA (ARR. Mancini)",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "5906*",
+                    "composerName": "Bixio,  Cesare  Andrea",
+                    "workTitle": "LA MIA CANZONE AL VENTO (ARR. Mancini)",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "5910*",
+                    "composerName": "Bizet,  Georges",
+                    "workTitle": "CARMEN FANTASY, FLUTE  (ARR. Borne)",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Griminelli, Andrea",
+                            "soloistInstrument": "Flute",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "6823*",
+                    "composerName": "Di Lazzaro,  Eldo",
+                    "workTitle": "CHITARRA ROMANA (ARR. Mancini)",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1273*",
+                    "composerName": "Sibella,  Gabriele",
+                    "workTitle": "GIROMETTA, LA (ARR. Mancini)",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "6824*",
+                    "composerName": "Denza,  Luigi",
+                    "workTitle": "OCCHI DI FATA (ARR. Mancini)",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1470*8",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "TRAVIATA, LA",
+                    "movement": "Prelude to Act III",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": []
+                },
+                {
+                    "ID": "6825*",
+                    "composerName": "Di Crescenza,  Vincenzo",
+                    "workTitle": "RONDINE AL NIDO (ARR. Mancini)",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Griminelli, Andrea",
+                            "soloistInstrument": "Flute",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "6826*",
+                    "composerName": "De Curtis,  Ernesto",
+                    "workTitle": "NON TI SCORDAR DI ME (ARR. Mancini)",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Griminelli, Andrea",
+                            "soloistInstrument": "Flute",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "6827*1",
+                    "composerName": "Massenet,  Jules",
+                    "workTitle": "WERTHER",
+                    "movement": "\"Pourquoi me réveiller,\" Werther (aria)",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8916*9",
+                    "composerName": "Puccini,  Giacomo",
+                    "workTitle": "TOSCA",
+                    "movement": "\"Recondita armonia,\" Cavaradossi (aria), Act I",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8916*12",
+                    "composerName": "Puccini,  Giacomo",
+                    "workTitle": "TOSCA",
+                    "movement": "\"E lucevan le stelle,\" Cavaradossi (aria), Act III",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1614*",
+                    "composerName": "di Capua,  Eduardo",
+                    "workTitle": "O SOLE MIO",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1664*3",
+                    "composerName": "Puccini,  Giacomo",
+                    "workTitle": "TURANDOT",
+                    "movement": "\"Nessun dorma,\" Calaf (aria), Act III",
+                    "conductorName": "Magiera, Leone",
+                    "soloists": [
+                        {
+                            "soloistName": "Pavarotti, Luciano",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1993"
+    },
+    {
+        "program": {
+            "id": "1bc35825-86e9-43ce-9ebb-fa1e29218d0a-0.1",
+            "programID": "13260",
+            "orchestra": "New York Philharmonic",
+            "season": "1993-94",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Nagoya, JAPAN",
+                    "Venue": "Concert Hall (Aichi)",
+                    "Date": "1994-06-26T04:00:00Z",
+                    "Time": "6:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51648*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "SYMPHONY NO. 36, C MAJOR, K.425, \"LINZ\"",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "1181*",
+                    "composerName": "Bruckner,  Anton",
+                    "workTitle": "SYMPHONY NO. 4, E FLAT MAJOR (ROMANTIC)",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "9007*17",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "MEISTERSINGER, DIE, WWV 96",
+                    "movement": "Prelude to Act I",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "50393*10",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS: SYMPHONIC PICTURE (ARR. Bennett)",
+                    "movement": "Oh, I Can't Sit Down",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1994"
+    },
+    {
+        "program": {
+            "id": "06929da0-755a-4efc-8c40-e7b659656fc3-0.1",
+            "programID": "13272",
+            "orchestra": "New York Philharmonic",
+            "season": "1994-95",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Athens, GREECE",
+                    "Venue": "Athens Concert Hall",
+                    "Date": "1995-06-26T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52453*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "402*",
+                    "composerName": "Shostakovich,  Dmitri",
+                    "workTitle": "SYMPHONY NO.  5, D MINOR, OP. 47",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "50393*10",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "PORGY AND BESS: SYMPHONIC PICTURE (ARR. Bennett)",
+                    "movement": "Oh, I Can't Sit Down",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1995"
+    },
+    {
+        "program": {
+            "id": "87be0a22-80f0-46f7-aae0-7253c9601c0e-0.1",
+            "programID": "13288",
+            "orchestra": "New York Philharmonic",
+            "season": "1998-99",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Ft. Worth, TX",
+                    "Venue": "None",
+                    "Date": "1999-06-26T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2407*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "CONCERTO, PIANO, G MAJOR",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Huang, Helen",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52826*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "52389*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "7002*",
+                    "composerName": "Handy,  William  Christopher",
+                    "workTitle": "BEALE STREET BLUES (FOR BRASS QUINTET) (ARR. Henderson)",
+                    "soloists": [
+                        {
+                            "soloistName": "Members of the New York Philharmonic Brass",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1999"
+    },
+    {
+        "program": {
+            "id": "fe462883-217f-4a2c-b678-8fde5d568f51-0.1",
+            "programID": "9027",
+            "orchestra": "New York Philharmonic",
+            "season": "2000-01",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Buenos Aires, ARGENTINA",
+                    "Venue": "Teatro Colón",
+                    "Date": "2001-06-26T04:00:00Z",
+                    "Time": "9:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51887*",
+                    "composerName": "Shostakovich,  Dmitri",
+                    "workTitle": "SYMPHONY NO.  1, OP. 10",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51952*",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "FOUR LAST SONGS (VIER LETZTE LIEDER)",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Lott, Felicity",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51965*",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "50858*5",
+                    "composerName": "Kodaly [Kodály],  Zoltán",
+                    "workTitle": "HARY JANOS: SUITE",
+                    "movement": "Intermezzo: Andante maestoso, ma con fuoco",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "7602*3",
+                    "composerName": "Bernstein,  Leonard",
+                    "workTitle": "WEST SIDE STORY SUITE, BRASS CHOIR (ARR. Turrin)",
+                    "movement": "America",
+                    "soloists": [
+                        {
+                            "soloistName": "Members of the New York Philharmonic Brass",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2001"
+    },
+    {
+        "program": {
+            "id": "f069dfc9-7bed-4e48-a361-cde8883c0b58-0.1",
+            "programID": "9066",
+            "orchestra": "New York Philharmonic",
+            "season": "2002-03",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Cagliari, SARDINIA, ITALY",
+                    "Venue": "Teatro Lirico di Cagliari",
+                    "Date": "2003-06-26T04:00:00Z",
+                    "Time": "9:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "4073*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.35",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": [
+                        {
+                            "soloistName": "Lee, Yura",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8859*1",
+                    "composerName": "Bach,  Johann  Sebastian",
+                    "workTitle": "SONATA, VIOLIN, UNACCOMPANIED, NO. 3, C MAJOR, BWV 1005",
+                    "movement": "Adagio",
+                    "soloists": [
+                        {
+                            "soloistName": "Lee, Yura",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50068*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "8963*4",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "EUGENE ONEGIN, OP. 24",
+                    "movement": "Polonaise",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "7401*",
+                    "composerName": "Kander,  John",
+                    "workTitle": "NEW YORK, NEW YORK (ORCH) (ARR. Broughton)",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2003"
+    },
+    {
+        "program": {
+            "id": "a7d9a6fe-0a68-4d03-bff0-0461f1195762-0.1",
+            "programID": "9237",
+            "orchestra": "New York Philharmonic",
+            "season": "2003-04",
+            "concerts": [
+                {
+                    "eventType": "Summertime Classics",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2004-06-26T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Summertime Classics",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2004-06-27T04:00:00Z",
+                    "Time": "5:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "50728*",
+                    "composerName": "Weber,  Carl  Maria Von",
+                    "workTitle": "INVITATION TO THE DANCE (ARR. Berlioz)",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "8855*8",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "SLAVONIC DANCES, OP. 46",
+                    "movement": "No. 8 in G minor: Presto",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "8958*39",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SWAN LAKE: BALLET",
+                    "movement": "Scène [Act IV, No. 26]",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "8958*8",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SWAN LAKE: BALLET",
+                    "movement": "Danse des petits cygnes [Act IV, No. 27]",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "8958*37",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SWAN LAKE: BALLET",
+                    "movement": "Scène (Allegro agitato — Molto meno mosso — Allegro vivace) [Act IV, No. 28]",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "8958*41",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SWAN LAKE: BALLET",
+                    "movement": "Scène finale [Act IV, No. 29]",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "3630*",
+                    "composerName": "Milhaud,  Darius",
+                    "workTitle": "BOEUF SUR LE TOIT, OP 58",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "50534*",
+                    "composerName": "Gounod,  Charles",
+                    "workTitle": "FAUST: BALLET MUSIC",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "51745*1",
+                    "composerName": "Borodin,  Alexander",
+                    "workTitle": "PRINCE IGOR",
+                    "movement": "Polovtsian Dances [Nos. 8 & 17 in opera]",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2004"
+    },
+    {
+        "program": {
+            "id": "2a1feae5-34b8-43ce-8ce7-c59e7477447a-0.1",
+            "programID": "10005",
+            "orchestra": "New York Philharmonic",
+            "season": "2007-08",
+            "concerts": [
+                {
+                    "eventType": "Summertime Classics",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-06-26T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51877*",
+                    "composerName": "Shostakovich,  Dmitri",
+                    "workTitle": "FESTIVE OVERTURE, OP. 96",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "53780*8",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
+                    "movement": "Montagues and Capulets [excerpt]",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "53778*5",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS",
+                    "movement": "Masks",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "53780*8",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
+                    "movement": "Montagues and Capulets [excerpt]",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "53778*6",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS",
+                    "movement": "Romeo and Juliet (Balcony Scene)",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "53780*3",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
+                    "movement": "Friar Laurence",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "53778*7",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS",
+                    "movement": "The Death of Tybalt",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "1108*",
+                    "composerName": "Rachmaninoff,  Sergei",
+                    "workTitle": "CONCERTO, PIANO, NO. 2, C MINOR, OP. 18",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": [
+                        {
+                            "soloistName": "Yang, Joyce",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2008"
+    },
+    {
+        "program": {
+            "id": "bae3174c-ba24-4c85-a349-0354eaca76c5-0.1",
+            "programID": "9857",
+            "orchestra": "New York Philharmonic",
+            "season": "2008-09",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2009-06-24T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2009-06-25T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2009-06-26T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2009-06-27T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52878*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  8 IN E FLAT MAJOR (SYMPHONY OF A THOUSAND)",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": [
+                        {
+                            "soloistName": "Brewer, Christine",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Gustafson, Nancy",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "De Bique, Jeanine",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Phillips, Mary",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Maultsby, Nancy",
+                            "soloistInstrument": "Alto",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Griffey, Anthony Dean",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schoene [Schöne], Wolfgang",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Grant, Jason",
+                            "soloistInstrument": "Bass-Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Dessoff Symphonic Choir, The",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Brooklyn Youth Chorus",
+                            "soloistInstrument": "Children's Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2009"
+    },
+    {
+        "program": {
+            "id": "2676497d-ff0a-4fa7-a6d3-cb9b8cbcb2ef-0.1",
+            "programID": "10211",
+            "orchestra": "New York Philharmonic",
+            "season": "2009-10",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2010-06-23T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2010-06-24T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2010-06-26T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "10046*",
+                    "composerName": "Lindberg,  Magnus",
+                    "workTitle": "AL LARGO",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52402*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "MISSA SOLEMNIS IN D MAJOR, OP.123",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Brewer, Christine",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Henschel, Jane",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Griffey, Anthony Dean",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Owens, Eric",
+                            "soloistInstrument": "Bass-Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Dicterow, Glenn",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2010"
+    },
+    {
+        "program": {
+            "id": "5fb823fe-9065-4588-9135-52d084514a25-0.1",
+            "programID": "11731",
+            "orchestra": "New York Philharmonic",
+            "season": "2011-12",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2012-06-26T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "4625*",
+                    "composerName": "Dutilleux,  Henri",
+                    "workTitle": "MÉTABOLES",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "7375*",
+                    "composerName": "Dutilleux,  Henri",
+                    "workTitle": "AINSI LA NUIT [STRING QUARTET]",
+                    "soloists": [
+                        {
+                            "soloistName": "Miro [Miró] Quartet",
+                            "soloistInstrument": "String Quartet",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "6631*",
+                    "composerName": "Dutilleux,  Henri",
+                    "workTitle": "CONCERTO, CELLO, TOUT UN MONDE LOINTAIN",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Ma, Yo-Yo",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2012"
+    },
+    {
+        "program": {
+            "id": "27a4ee3c-ba1d-491b-9545-1ceee4b075d3-0.1",
+            "programID": "12084",
+            "orchestra": "New York Philharmonic",
+            "season": "2013-14",
+            "concerts": [
+                {
+                    "eventType": "Festival",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2014-06-24T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Festival",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2014-06-25T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Festival",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2014-06-26T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Festival",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2014-06-27T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Festival",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2014-06-28T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52349*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, VIOLIN, CELLO & PIANO, OP. 56 (TRIPLE)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Bronfman, Yefim",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Dicterow, Glenn",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Brey, Carter",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "3548*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Bronfman, Yefim",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2014"
+    }
+]

@@ -1,0 +1,2180 @@
+[
+    {
+        "program": {
+            "id": "b8c87ff4-a930-4771-b7da-f972a11b96e0-0.1",
+            "programID": "5881",
+            "orchestra": "New York Philharmonic",
+            "season": "1944-45",
+            "concerts": [
+                {
+                    "eventType": "Summer Broadcast Concert",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Carnegie Hall",
+                    "Date": "1944-09-10T04:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Golschmann, Vladimir",
+                    "soloists": []
+                },
+                {
+                    "ID": "8856*1",
+                    "composerName": "Glinka,  Mikhail",
+                    "workTitle": "RUSLAN AND LUDMILA",
+                    "movement": "Overture",
+                    "conductorName": "Golschmann, Vladimir",
+                    "soloists": []
+                },
+                {
+                    "ID": "3417*",
+                    "composerName": "Debussy,  Claude",
+                    "workTitle": "MER, LA [THE SEA]",
+                    "conductorName": "Golschmann, Vladimir",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50064*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+                    "conductorName": "Golschmann, Vladimir",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1944"
+    },
+    {
+        "program": {
+            "id": "68830d5d-0ca0-4dbe-ae77-7cfa36b27b57-0.1",
+            "programID": "10051",
+            "orchestra": "Members of NY Philharmonic",
+            "season": "1946-47",
+            "concerts": [
+                {
+                    "eventType": "Festival",
+                    "Location": "Saratoga Springs, NY",
+                    "Venue": "Spa Theatre",
+                    "Date": "1946-09-10T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9571*",
+                    "composerName": "Giannini,  Vittorio",
+                    "workTitle": "CONCERTO GROSSO",
+                    "conductorName": "Adler, F. Charles",
+                    "soloists": [
+                        {
+                            "soloistName": "Corigliano, John, Sr.",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Pogany, Imre",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Vieland, Joseph",
+                            "soloistInstrument": "Viola",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Stern, Carl",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9572*",
+                    "composerName": "Toch,  Ernst",
+                    "workTitle": "POEMS FOR MARTHA",
+                    "conductorName": "Adler, F. Charles",
+                    "soloists": [
+                        {
+                            "soloistName": "Gephart, William",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9573*",
+                    "composerName": "Guenther,  Felix",
+                    "workTitle": "PINCH OF HAYDN",
+                    "conductorName": "Adler, F. Charles",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "9574*",
+                    "composerName": "Lucas,  Mary  Anderson",
+                    "workTitle": "VARIATIONS ON A THEME OF PURCELL",
+                    "conductorName": "Adler, F. Charles",
+                    "soloists": []
+                },
+                {
+                    "ID": "9828*",
+                    "composerName": "Barber,  Samuel",
+                    "workTitle": "DOVER BEACH, OP. 3 (ORCHESTRA)",
+                    "conductorName": "Adler, F. Charles",
+                    "soloists": [
+                        {
+                            "soloistName": "Gephart, William",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9575*",
+                    "composerName": "Rieti,  Vittorio",
+                    "workTitle": "NOTTURNO",
+                    "conductorName": "Adler, F. Charles",
+                    "soloists": []
+                },
+                {
+                    "ID": "9576*",
+                    "composerName": "Pisk,  Paul",
+                    "workTitle": "BUCOLIC SUITE",
+                    "conductorName": "Adler, F. Charles",
+                    "soloists": []
+                },
+                {
+                    "ID": "9577*",
+                    "composerName": "Jadassohn,  Salomon",
+                    "workTitle": "SCHERZO IN  THE FORM OF A CANON (ARR. Giannini)",
+                    "conductorName": "Adler, F. Charles",
+                    "soloists": []
+                },
+                {
+                    "ID": "9578*",
+                    "composerName": "Weber,  Carl  Maria Von",
+                    "workTitle": "WALTZ (UNSPECIFIED) (ARR. Dubensky)",
+                    "conductorName": "Adler, F. Charles",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1946"
+    },
+    {
+        "program": {
+            "id": "2a68ee94-8c74-4d0c-bb84-9c28e1ddb463-0.1",
+            "programID": "3139",
+            "orchestra": "New York Philharmonic",
+            "season": "1950-51",
+            "concerts": [
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9194*1",
+                    "composerName": "Smetana,  Bedrich",
+                    "workTitle": "BARTERED BRIDE, THE",
+                    "movement": "Overture (\"Overture to a Comedy\")",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50068*2",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+                    "movement": "Andante cantabile, con alcuna licenza",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50068*3",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+                    "movement": "Valse: Allegro moderato",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50376*5",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "FORZA DEL DESTINO, LA",
+                    "movement": "\"Pace, pace mio Dio!\" Leonora (aria), Act IV",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": [
+                        {
+                            "soloistName": "Farrell, Eileen",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "11775*",
+                    "composerName": "Falla,  Manuel  de",
+                    "workTitle": "THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1950"
+    },
+    {
+        "program": {
+            "id": "2a68ee94-8c74-4d0c-bb84-9c28e1ddb463-0.1",
+            "programID": "3139",
+            "orchestra": "New York Philharmonic",
+            "season": "1950-51",
+            "concerts": [
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9194*1",
+                    "composerName": "Smetana,  Bedrich",
+                    "workTitle": "BARTERED BRIDE, THE",
+                    "movement": "Overture (\"Overture to a Comedy\")",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50068*2",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+                    "movement": "Andante cantabile, con alcuna licenza",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50068*3",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+                    "movement": "Valse: Allegro moderato",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50376*5",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "FORZA DEL DESTINO, LA",
+                    "movement": "\"Pace, pace mio Dio!\" Leonora (aria), Act IV",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": [
+                        {
+                            "soloistName": "Farrell, Eileen",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "11775*",
+                    "composerName": "Falla,  Manuel  de",
+                    "workTitle": "THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1950"
+    },
+    {
+        "program": {
+            "id": "2a68ee94-8c74-4d0c-bb84-9c28e1ddb463-0.1",
+            "programID": "3139",
+            "orchestra": "New York Philharmonic",
+            "season": "1950-51",
+            "concerts": [
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9194*1",
+                    "composerName": "Smetana,  Bedrich",
+                    "workTitle": "BARTERED BRIDE, THE",
+                    "movement": "Overture (\"Overture to a Comedy\")",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50068*2",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+                    "movement": "Andante cantabile, con alcuna licenza",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50068*3",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+                    "movement": "Valse: Allegro moderato",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50376*5",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "FORZA DEL DESTINO, LA",
+                    "movement": "\"Pace, pace mio Dio!\" Leonora (aria), Act IV",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": [
+                        {
+                            "soloistName": "Farrell, Eileen",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "11775*",
+                    "composerName": "Falla,  Manuel  de",
+                    "workTitle": "THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1950"
+    },
+    {
+        "program": {
+            "id": "2a68ee94-8c74-4d0c-bb84-9c28e1ddb463-0.1",
+            "programID": "3139",
+            "orchestra": "New York Philharmonic",
+            "season": "1950-51",
+            "concerts": [
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-08T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-09T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-10T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                },
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Roxy Theatre",
+                    "Date": "1950-09-11T04:00:00Z",
+                    "Time": "None"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9194*1",
+                    "composerName": "Smetana,  Bedrich",
+                    "workTitle": "BARTERED BRIDE, THE",
+                    "movement": "Overture (\"Overture to a Comedy\")",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50068*2",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+                    "movement": "Andante cantabile, con alcuna licenza",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50068*3",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+                    "movement": "Valse: Allegro moderato",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50376*5",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "FORZA DEL DESTINO, LA",
+                    "movement": "\"Pace, pace mio Dio!\" Leonora (aria), Act IV",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": [
+                        {
+                            "soloistName": "Farrell, Eileen",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "11775*",
+                    "composerName": "Falla,  Manuel  de",
+                    "workTitle": "THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1950"
+    },
+    {
+        "program": {
+            "id": "76ea92fa-46d5-41ec-b69b-645aba7ece22-0.1",
+            "programID": "5124",
+            "orchestra": "New York Philharmonic",
+            "season": "1955-56",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Edinburgh, SCOTLAND",
+                    "Venue": "Usher Hall",
+                    "Date": "1955-09-10T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "6709*16",
+                    "composerName": "Weber,  Carl  Maria Von",
+                    "workTitle": "FREISCHUTZ, DER",
+                    "movement": "Overture",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "52581*",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "SYMPHONY NO. 5, D MAJOR, OP.107 (REFORMATION)",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "881*1",
+                    "composerName": "Skalkottas,  Nikos",
+                    "workTitle": "36 GREEK DANCES",
+                    "movement": "Series 1: IV. Peloponnissiakos",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "881*2",
+                    "composerName": "Skalkottas,  Nikos",
+                    "workTitle": "36 GREEK DANCES",
+                    "movement": "Series I: III. Ipirotikos",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "881*3",
+                    "composerName": "Skalkottas,  Nikos",
+                    "workTitle": "36 GREEK DANCES",
+                    "movement": "Series 3: I. Hostianos",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "881*4",
+                    "composerName": "Skalkottas,  Nikos",
+                    "workTitle": "36 GREEK DANCES",
+                    "movement": "Kleftikos (Unspecified)",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51872*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP. 73",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50376*1",
+                    "composerName": "Verdi,  Giuseppe",
+                    "workTitle": "FORZA DEL DESTINO, LA",
+                    "movement": "Overture",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1955"
+    },
+    {
+        "program": {
+            "id": "a700cab0-5a38-4844-9f5c-7fb45475148c-0.1",
+            "programID": "5781",
+            "orchestra": "New York Philharmonic",
+            "season": "1959-60",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Moscow, USSR",
+                    "Venue": "Tchaikovsky Conservatory Hall",
+                    "Date": "1959-09-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "4380*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNION OF SOVIET SOCIALIST REPUBLICS",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                },
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                },
+                {
+                    "ID": "52456*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 8 IN F MAJOR, OP.93",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52621*",
+                    "composerName": "Barber,  Samuel",
+                    "workTitle": "MEDEA'S MEDITATION AND DANCE OF VENGEANCE, OP. 23A",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                },
+                {
+                    "ID": "9003*6",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "TANNHAUSER, WWV 70",
+                    "movement": "Overture [Dresden]",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                },
+                {
+                    "ID": "9004*14",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "TRISTAN UND ISOLDE, WWV 90",
+                    "movement": "Prelude and Liebestod (with or without soloist)",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": [
+                        {
+                            "soloistName": "No Soloist",
+                            "soloistInstrument": "Other",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9006*17",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+                    "movement": "PROLOGUE: Siegfried's Rhine Journey",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                },
+                {
+                    "ID": "4401*",
+                    "composerName": "Menotti,  Gian  Carlo",
+                    "workTitle": "ISLAND GOD, THE: TWO INTERLUDES",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                },
+                {
+                    "ID": "8999*9",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "LOHENGRIN",
+                    "movement": "Act III: Introduction",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1959"
+    },
+    {
+        "program": {
+            "id": "11ec490a-3f11-4fce-8ae7-26000f6b06fc-0.1",
+            "programID": "6667",
+            "orchestra": "New York Philharmonic",
+            "season": "1960-61",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Chicago, IL",
+                    "Venue": "Opera House",
+                    "Date": "1960-09-10T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3395*",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "2417*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 1, C MAJOR, OP.15",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Bernstein, Leonard",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51691*",
+                    "composerName": "Bartok [Bartók],  Béla",
+                    "workTitle": "CONCERTO FOR ORCHESTRA, SZ 116, BB 123",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "53624*4",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
+                    "movement": "Infernal Dance of King Kashchei",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1960"
+    },
+    {
+        "program": {
+            "id": "996ee8e6-0e76-4486-b743-b5776f2ea3b0-0.1",
+            "programID": "6226",
+            "orchestra": "New York Philharmonic",
+            "season": "1960-61",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Chicago, IL",
+                    "Venue": "Opera House",
+                    "Date": "1960-09-10T04:00:00Z",
+                    "Time": "1:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51710*1",
+                    "composerName": "Rossini,  Gioachino",
+                    "workTitle": "SEMIRAMIDE",
+                    "movement": "Overture",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "52389*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "3395*",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "52644*",
+                    "composerName": "Debussy,  Claude",
+                    "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
+                    "conductorName": "Stanger, Russell",
+                    "soloists": []
+                },
+                {
+                    "ID": "7599*1",
+                    "composerName": "Bernstein,  Leonard",
+                    "workTitle": "CANDIDE",
+                    "movement": "Overture",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1960"
+    },
+    {
+        "program": {
+            "id": "41fc08ee-326f-4303-8919-254f9d2927f2-0.1",
+            "programID": "13423",
+            "orchestra": "New York Philharmonic",
+            "season": "1967-68",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Monte Carlo, MONACO",
+                    "Venue": "Theatre de L'Opera",
+                    "Date": "1968-09-10T04:00:00Z",
+                    "Time": "9:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52073*",
+                    "composerName": "Haydn,  Franz  Joseph",
+                    "workTitle": "SYMPHONY NO.  87, A MAJOR",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "1723*",
+                    "composerName": "Harris,  Roy",
+                    "workTitle": "SYMPHONY NO.  3",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51370*",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1968"
+    },
+    {
+        "program": {
+            "id": "6e4ab238-550e-4f98-84ec-a2c6ce6aeeb2-0.1",
+            "programID": "5955",
+            "orchestra": "New York Philharmonic",
+            "season": "1969-70",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Ames, IA",
+                    "Venue": "C.Y. Stephens Auditorium",
+                    "Date": "1969-09-10T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "8856*1",
+                    "composerName": "Glinka,  Mikhail",
+                    "workTitle": "RUSLAN AND LUDMILA",
+                    "movement": "Overture",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": []
+                },
+                {
+                    "ID": "2190*",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "CONCERTO, PIANO, NO. 3, OP. 26, C MAJOR",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": [
+                        {
+                            "soloistName": "Janis, Byron",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50064*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": []
+                },
+                {
+                    "ID": "54028*",
+                    "composerName": "Strauss,  Johann, Jr. & Josef",
+                    "workTitle": "PIZZICATO POLKA",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1969"
+    },
+    {
+        "program": {
+            "id": "cf3b6d46-e941-478e-be6a-f9bb0ec15719-0.1",
+            "programID": "13352",
+            "orchestra": "New York Philharmonic",
+            "season": "1969-70",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Sapporo, JAPAN",
+                    "Venue": "Fuji Gakuen Hall",
+                    "Date": "1970-09-10T04:00:00Z",
+                    "Time": "6:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52577*",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": []
+                },
+                {
+                    "ID": "2334*",
+                    "composerName": "Takemitsu,  Toru",
+                    "workTitle": "NOVEMBER STEPS, NO. 1",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": [
+                        {
+                            "soloistName": "Tsuruta, Kinshi",
+                            "soloistInstrument": "Biwa",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Yokoyama, Katsuya",
+                            "soloistInstrument": "Shakuhachi",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53328*",
+                    "composerName": "Musorgsky,  Modest",
+                    "workTitle": "PICTURES AT AN EXHIBITION (ARR. Ravel)",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1970"
+    },
+    {
+        "program": {
+            "id": "716809d3-e6fd-435b-9e27-5b7a0e7a629b-0.1",
+            "programID": "13336",
+            "orchestra": "New York Philharmonic",
+            "season": "1972-73",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Muncie, IN",
+                    "Venue": "Community Auditorium (Emens College)",
+                    "Date": "1972-09-10T04:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1914*2",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "BENVENUTO CELLINI",
+                    "movement": "Overture",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "51853*",
+                    "composerName": "Haydn,  Franz  Joseph",
+                    "workTitle": "SYMPHONY NO.  31, D MAJOR (HORNSIGNAL)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53078*",
+                    "composerName": "Schumann,  Robert",
+                    "workTitle": "SYMPHONY NO. 4, D MINOR, OP. 120",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "51581*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1972"
+    },
+    {
+        "program": {
+            "id": "6dd0ec6f-fa07-4ed6-b12f-86d5eafbd000-0.1",
+            "programID": "13152",
+            "orchestra": "New York Philharmonic",
+            "season": "1973-74",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Osaka, JAPAN",
+                    "Venue": "Festival Hall",
+                    "Date": "1974-09-10T04:00:00Z",
+                    "Time": "7:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51071*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "CONCERTO, PIANO NO. 25, C MAJOR, K.503",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Bernstein, Leonard",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52863*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  5 IN C SHARP MINOR",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Cerminaro, John",
+                            "soloistInstrument": "French Horn",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1974"
+    },
+    {
+        "program": {
+            "id": "ea7ae414-ce20-4ed8-bf51-c7b0eea4b960-0.1",
+            "programID": "13170",
+            "orchestra": "New York Philharmonic",
+            "season": "1974-75",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Hannover, GERMANY",
+                    "Venue": "Stadthalle",
+                    "Date": "1975-09-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51356*6",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "ROMEO ET JULIETTE, OP.17",
+                    "movement": "Star-lit night - Capulet's garden, silent and deserted - The young Capulets, leaving the hall, pass by singing fragements of the dance music (Love scene, Adagio)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "51356*7",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "ROMEO ET JULIETTE, OP.17",
+                    "movement": "Queen Mab, or the Fairy of dreams (Scherzo)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "51356*5",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "ROMEO ET JULIETTE, OP.17",
+                    "movement": "Romeo Alone - Sadness - Distant sounds of music and dancing - Great festivities in Capulet's palace (Ball Scene)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "52207*",
+                    "composerName": "Carter,  Elliott",
+                    "workTitle": "CONCERTO, ORCHESTRA",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "416*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "PETRUSHKA (1911 VERSION)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1975"
+    },
+    {
+        "program": {
+            "id": "09aa1b71-0ee8-4a09-95c8-3e668a363e30-0.1",
+            "programID": "1861",
+            "orchestra": "New York Philharmonic",
+            "season": "1976-77",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Leningrad, USSR",
+                    "Venue": "Bolshoi Hall",
+                    "Date": "1976-09-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "8957*1",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "MARRIAGE OF FIGARO, THE, K.492",
+                    "movement": "Overture",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": []
+                },
+                {
+                    "ID": "484*",
+                    "composerName": "Barber,  Samuel",
+                    "workTitle": "SYMPHONY NO. 1 IN ONE MOVEMENT, OP.9",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52863*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  5 IN C SHARP MINOR",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": [
+                        {
+                            "soloistName": "Cerminaro, John",
+                            "soloistInstrument": "French Horn",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1976"
+    },
+    {
+        "program": {
+            "id": "55874fb6-cfd8-45ac-8047-2e2f2223ab92-0.1",
+            "programID": "4073",
+            "orchestra": "New York Philharmonic",
+            "season": "1977-78",
+            "concerts": [
+                {
+                    "eventType": "Festival",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1977-09-10T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2272*3",
+                    "composerName": "Schubert,  Franz",
+                    "workTitle": "IMPROMPTUS, FOUR, D.935",
+                    "movement": "B-flat Major",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": [
+                        {
+                            "soloistName": "Schenly, Paul",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2276*",
+                    "composerName": "Satie,  Erik",
+                    "workTitle": "EMBRYONS DESSECHES",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": [
+                        {
+                            "soloistName": "Schenly, Paul",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2280*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "PETRUSHKA (1921 VERSION FOR PIANO)",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": [
+                        {
+                            "soloistName": "Schenly, Paul",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "1389*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "CONCERTO, PIANO, NO. 1, D MINOR, OP.15",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": [
+                        {
+                            "soloistName": "Schenly, Paul",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1977"
+    },
+    {
+        "program": {
+            "id": "2237c2cc-80e7-4f60-82f2-456036177bca-0.1",
+            "programID": "731",
+            "orchestra": "New York Philharmonic",
+            "season": "1978-79",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Bonao, DOMINICAN REPUBLIC",
+                    "Venue": "Falconbridge Club",
+                    "Date": "1978-09-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1951*",
+                    "composerName": "Anthem,",
+                    "workTitle": "DOMINICAN REPUBLIC",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "9000*1",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "RIENZI, WWV 49",
+                    "movement": "Overture",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "715*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "VALSE, LA",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50064*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1978"
+    },
+    {
+        "program": {
+            "id": "1f9dea4d-e8b4-4f10-bebe-1e0e5d23abbb-0.1",
+            "programID": "1143",
+            "orchestra": "New York Philharmonic",
+            "season": "1981-82",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1981-09-10T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1981-09-11T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1981-09-12T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1981-09-15T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "769*",
+                    "composerName": "Stockhausen,  Karlheinz",
+                    "workTitle": "JUBILEE",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "52637*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "KINDERTOTENLIEDER",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Ludwig, Christa",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53708*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "SACRE DU PRINTEMPS, LE",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1981"
+    },
+    {
+        "program": {
+            "id": "36a65a81-6050-41b2-adb4-7f302d43e80a-0.1",
+            "programID": "2287",
+            "orchestra": "New York Philharmonic",
+            "season": "1984-85",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Singapore",
+                    "Venue": "Victoria Hall",
+                    "Date": "1984-09-10T04:00:00Z",
+                    "Time": "8:15PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52389*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "51583*",
+                    "composerName": "Bloch,  Ernest",
+                    "workTitle": "SCHELOMO",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Munroe, Lorne",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51884*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1984"
+    },
+    {
+        "program": {
+            "id": "7eab4c4f-fb01-4360-be94-6f11c4ac66b1-0.1",
+            "programID": "3847",
+            "orchestra": "New York Philharmonic",
+            "season": "1989-90",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Nagoya, JAPAN",
+                    "Venue": "Shirotori Century Plaza",
+                    "Date": "1989-09-10T04:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52449*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 6 IN F MAJOR, OP.68 (PASTORAL)",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2331*",
+                    "composerName": "Rimsky-Korsakov,  Nikolai",
+                    "workTitle": "SCHEHERAZADE, OP. 35",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Dicterow, Glenn",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "52164*4",
+                    "composerName": "Puccini,  Giacomo",
+                    "workTitle": "MANON LESCAUT",
+                    "movement": "Intermezzo (Prelude to Act III)",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "6396*",
+                    "composerName": "Strauss,  Johann, II",
+                    "workTitle": "TRITSCH-TRATSCH POLKA, OP. 214",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1989"
+    },
+    {
+        "program": {
+            "id": "6bd5d3ee-293f-474e-a053-fe7d10e99798-0.1",
+            "programID": "9004",
+            "orchestra": "New York Philharmonic",
+            "season": "2001-02",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Braunschweig, GERMANY",
+                    "Venue": "Stadthalle",
+                    "Date": "2001-09-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51887*",
+                    "composerName": "Shostakovich,  Dmitri",
+                    "workTitle": "SYMPHONY NO.  1, OP. 10",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "1323*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "CONCERTO, VIOLIN, A MINOR, OP.53",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Chang, Sarah",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51965*",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "50858*5",
+                    "composerName": "Kodaly [Kodály],  Zoltán",
+                    "workTitle": "HARY JANOS: SUITE",
+                    "movement": "Intermezzo: Andante maestoso, ma con fuoco",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "7602*3",
+                    "composerName": "Bernstein,  Leonard",
+                    "workTitle": "WEST SIDE STORY SUITE, BRASS CHOIR (ARR. Turrin)",
+                    "movement": "America",
+                    "soloists": [
+                        {
+                            "soloistName": "Members of the New York Philharmonic Brass",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2001"
+    },
+    {
+        "program": {
+            "id": "5f882627-64e9-40df-b976-201f534fc2ba-0.1",
+            "programID": "9032",
+            "orchestra": "New York Philharmonic",
+            "season": "2001-02",
+            "concerts": [
+                {
+                    "eventType": "Tour - Young People's Concerts for Schools",
+                    "Location": "Braunschweig, GERMANY",
+                    "Venue": "Stadthalle",
+                    "Date": "2001-09-10T04:00:00Z",
+                    "Time": "12:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1323*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "CONCERTO, VIOLIN, A MINOR, OP.53",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Chang, Sarah",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51887*",
+                    "composerName": "Shostakovich,  Dmitri",
+                    "workTitle": "SYMPHONY NO.  1, OP. 10",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2001"
+    },
+    {
+        "program": {
+            "id": "4acec051-8ec0-4e86-8f1d-08777892cb6e-0.1",
+            "programID": "9508",
+            "orchestra": "New York Philharmonic",
+            "season": "2005-06",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Bonn, GERMANY",
+                    "Venue": "Beethovenhalle",
+                    "Date": "2005-09-10T04:00:00Z",
+                    "Time": "6:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2877*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51944*",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "DON JUAN, OP. 20",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "53542*",
+                    "composerName": "Strauss,  Richard",
+                    "workTitle": "ROSENKAVALIER, DER: SUITE",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "52364*1",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "EGMONT, OP.84",
+                    "movement": "Overture",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2005"
+    },
+    {
+        "program": {
+            "id": "d41e6d20-1930-4b82-af39-238c10b6674e-0.1",
+            "programID": "9799",
+            "orchestra": "New York Philharmonic",
+            "season": "2008-09",
+            "concerts": [
+                {
+                    "eventType": "Tour",
+                    "Location": "Stuttgart, W. GERMANY",
+                    "Venue": "Beethoven-Saal",
+                    "Date": "2008-09-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51507*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "MA MÈRE L'OYE (MOTHER GOOSE): SUITE (ORCHESTRA)",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "2443*",
+                    "composerName": "Bartok [Bartók],  Béla",
+                    "workTitle": "MIRACULOUS MANDARIN, SUITE",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50064*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "8902*5",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "HUNGARIAN DANCES (ORCH.)",
+                    "movement": "Hungarian Dance No. 5 (Schmeling)",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2008"
+    },
+    {
+        "program": {
+            "id": "f2a4cfed-5e56-4980-8d6f-8765acf18c82-0.1",
+            "programID": "10691",
+            "orchestra": "New York Philharmonic",
+            "season": "2011-12",
+            "concerts": [
+                {
+                    "eventType": "Special",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2011-09-10T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": []
+                },
+                {
+                    "ID": "52827*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  2 IN C MINOR (RESURRECTION)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Roschmann [Röschmann], Dorothea",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "DeYoung, Michelle",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2011"
+    },
+    {
+        "program": {
+            "id": "0e617eb4-41a1-4054-9068-cef62268ee02-0.1",
+            "programID": "13099",
+            "orchestra": "Shanghai Orchestra Academy",
+            "season": "2014-15",
+            "concerts": [
+                {
+                    "eventType": "Residency - Chamber",
+                    "Location": "Shanghai, CHINA",
+                    "Venue": "U.S. Consulate Shanghai",
+                    "Date": "2014-09-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "11651*",
+                    "composerName": "Devienne,  François",
+                    "workTitle": "TRIO, FL/OB/BN, B-FLAT MAJOR, OP. 61 NO. 5",
+                    "soloists": [
+                        {
+                            "soloistName": "Kaufman, Mindy",
+                            "soloistInstrument": "Flute",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Wang, Liang",
+                            "soloistInstrument": "Oboe",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "LeClair, Judith",
+                            "soloistInstrument": "Bassoon",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2014"
+    }
+]
