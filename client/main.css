@@ -71,10 +71,7 @@ h3 {
     .program {
         flex-basis: 100%;
     }
-    h1 {
+    h1, h2 {
         font-size: 1.2rem;
-    }
-    h2 {
-        font-size: 1rem;
     }
 }

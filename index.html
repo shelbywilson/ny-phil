@@ -10,7 +10,7 @@
         <meta property="og:url" content="" />
         <meta property="og:title" content="..." />
         <meta property="og:description" content="" />
-        <meta name="theme-color" content="#ae01ff">
+        <meta name="theme-color" content="#fff">
         <title>...</title>
         <link rel="stylesheet" type="text/css" href="./client/main.css" />
         <!-- <link rel="icon" href="favicon.ico" /> -->
@@ -30,7 +30,7 @@
 
                 setDateDropdowns()
 
-                updatePage()
+                getData()
             }
 
             function setDateDropdowns() {
@@ -75,16 +75,16 @@
             function updateMonth(month) {
                 state.month = month
 
-                updatePage()
+                getData()
             }
 
             function updateDay(day) {
                 state.day = day
 
-                updatePage()
+                getData()
             }
 
-            function updatePage() {
+            function getData() {
                 const month = state.month < 10 ? '0' + state.month : state.month;
                 const day = state.day < 10 ? '0' + state.day : state.day;
 
@@ -92,11 +92,11 @@
                     .then(res => res.json())
                     .then(programs => {
                         state.programs = programs.reverse()
-                        populatePage()
+                        updatePage()
                     })
                     .catch(() => {
                         state.programs = []
-                        populatePage()
+                        updatePage()
                     })
             }
 
@@ -117,7 +117,7 @@
                 return concert.Location + '—' + concert.Venue
             }
 
-            function populatePage() {
+            function updatePage() {
                 const container = document.querySelector('#programs-container')
                 container.innerHTML = '';
 

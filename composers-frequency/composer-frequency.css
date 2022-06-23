@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+}
+header .subtitle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+ h2 {
+    margin: 0;
+}
+header select {
+    margin: 0 10px;
+}
+.composer-frequency-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.composer-frequency-row > div {
+    padding: 0.5rem 1rem;
+}
+.composer-frequency-row > div:first-child {
+    flex: 0 0 45%;
+    text-align: right;
+}
+.composer-frequency-row > div:last-child {
+    flex: 0 0 55%;
+}
+
+@media (max-width: 767px) {
+    .composer-frequency-row > div:first-child {
+        flex: 0 0 25%;
+    }
+    .composer-frequency-row > div:last-child {
+        flex: 0 0 75%;
+    }
+}

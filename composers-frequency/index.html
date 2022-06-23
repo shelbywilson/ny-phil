@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="index,follow" />
+        <meta name="googlebot" content="index,follow" />
+        <meta name="description" content="" />
+        <meta property="og:url" content="" />
+        <meta property="og:title" content="..." />
+        <meta property="og:description" content="" />
+        <meta name="theme-color" content="#fff">
+        <title>...</title>
+        <link rel="stylesheet" type="text/css" href="./../client/main.css" />
+        <link rel="stylesheet" type="text/css" href="./../composers-frequency/composer-frequency.css" />
+        <!-- <link rel="icon" href="favicon.ico" /> -->
+
+        <script>
+            const state = {
+                composers: [],
+                start: 9999,
+                end: 0,
+            }
+            window.onload = () => {
+                getData()
+            }
+
+            function getData() {
+                fetch(`./../data/composer-years.json`)
+                    .then(res => res.json())
+                    .then(composers => {
+                        console.log(composers)
+                        state.composers = composers
+                        setDateDropdowns()
+                        updatePage()
+                    })
+                    .catch(() => {
+                        state.composers = []
+                        updatePage()
+                    })
+            }
+
+            function setDateDropdowns() {
+                const start = document.getElementById('select-start')
+                const end = document.getElementById('select-end')
+
+                let option = document.createElement('option')
+                option.value = ''
+                option.innerHTML = 'Select start'
+                option.disabled = true
+                start.append(option)
+
+                option = document.createElement('option')
+                option.value = ''
+                option.innerHTML = 'Select end'
+                option.disabled = true
+                end.append(option)
+
+                Object.keys(state.composers['Beethoven, Ludwig van']).forEach(year => {
+                    year = parseInt(year, 10)
+
+                    if (year < state.start) {
+                        state.start = year
+                    }
+                    if (year > state.end) {
+                        state.end = year
+                    }
+                })
+                
+                let i = state.start;
+                while (i <= state.end) {
+                    option = document.createElement('option')
+                    option.innerHTML = i;
+                    option.value = i;
+
+                    start.append(option)
+                    end.append(option.cloneNode(true))
+                    i += 1
+                }
+
+                start.value = state.start;
+                end.value = state.end;
+            }
+
+            function updateRange(key, value) {
+                state[key] = parseInt(value, 10);
+
+                updatePage();
+            }
+
+            function sumOfSeasons(composerName) {
+                let total = 0;
+                Object.keys(state.composers[composerName]).forEach(year => {
+                    year = parseInt(year, 10)
+                    if (year >= state.start && year <= state.end) {
+                        total += state.composers[composerName][year]
+                    }
+                })
+
+                return total
+            }
+
+            function updatePage() {
+                const container = document.querySelector('#composers-container')
+                container.innerHTML = '';
+
+                if (Object.keys(state.composers).length > 0) {
+                    Object.keys(state.composers).sort((a,b) => {
+                            return sumOfSeasons(b) - sumOfSeasons(a)
+                        })
+                        .forEach(composer => {
+                            const frequency = sumOfSeasons(composer);
+                            if (frequency > 0) {
+                                const p = document.createElement('div')
+                                p.className = 'composer-frequency-row'
+                                p.innerHTML = `<div>${frequency}</div><div>${composer}</div>`
+                                
+                                container.append(p)
+                        }
+                    })
+                } else {
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <header>
+            <h1>
+                frequency of work by composer 
+            </h1>
+            <div class="subtitle">
+                <h2> from </h2>
+                <select id="select-start" onchange="updateRange('start', this.value)"></select>
+                <h2> to </h2>
+                <select id="select-end" onchange="updateRange('end', this.value)"></select>
+            </div>
+        </header>
+        <main>
+            <div id="composers-container">
+            </div>
+        </main>
+    </body>
+</html>
