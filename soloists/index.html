@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="index,follow" />
+        <meta name="googlebot" content="index,follow" />
+        <meta name="description" content="" />
+        <meta property="og:url" content="" />
+        <meta property="og:title" content="soloists" />
+        <meta property="og:description" content="frequency of work by composer" />
+        <meta name="theme-color" content="#fff">
+        <title>soloists</title>
+        <link rel="stylesheet" type="text/css" href="./../client/main.css" />
+        <link rel="stylesheet" type="text/css" href="./styles.css" />
+        <!-- <link rel="icon" href="favicon.ico" /> -->
+
+        <script>
+            const state = {
+                soloists: {},
+                sort: {
+                    value: 'soloist',
+                    direction: 'descending'
+                },
+                page: 0,
+                pageSize: 25,
+                start: 1842,
+                end: new Date().getYear() + 1900,
+            }
+            window.onload = () => {
+                setDateDropdowns()
+                getData()
+            }
+
+            function getData() {
+                fetch(`./../data/concerts-soloists.json`)
+                    .then(res => res.json())
+                    .then(soloists => {
+                        state.soloists = soloists;
+                        updatePage()
+                    })
+            }
+
+            function setDateDropdowns() {
+                const start = document.getElementById('select-start')
+                const end = document.getElementById('select-end')
+
+                let option = document.createElement('option')
+                option.value = ''
+                option.innerHTML = 'Select start'
+                option.disabled = true
+                start.append(option)
+
+                option = document.createElement('option')
+                option.value = ''
+                option.innerHTML = 'Select end'
+                option.disabled = true
+                end.append(option)
+                
+                let i = state.start;
+                while (i <= state.end) {
+                    option = document.createElement('option')
+                    option.innerHTML = i;
+                    option.value = i;
+
+                    start.append(option)
+                    end.append(option.cloneNode(true))
+                    i += 1
+                }
+
+                start.value = state.start;
+                end.value = state.end;
+            }
+
+            function updateRange(key, value) {
+                state.page = 0;
+                state[key] = parseInt(value, 10);
+
+                updatePage();
+            }
+
+            function updateSort(key, value) {
+                state.page = 0;
+                state.sort[key] = value
+
+                updatePage()
+            }
+
+            function getRange(range) {
+                const start = range[0].split('T')[0]
+                const end = range[1].split('T')[0]
+                
+                return start.split('-')[0] + ', ' + new Date(start).toLocaleDateString('en-us', {month: 'long', day: 'numeric'})
+                    + (start !== end ? ' to ' + end.split('-')[0] + ', ' + new Date(end).toLocaleDateString('en-us', {month: 'long', day: 'numeric'}) : '')
+            }
+
+            function getYear(date) {
+                return parseInt(date.split('T')[0], 10)
+            }
+
+            function changePage(page) {
+                state.page = page;
+
+                updatePage()
+            }
+
+            function instrumentsList(instruments) {
+                let str = '';
+
+                instruments.forEach((ins, i) => str += ins + ', ')
+
+                return str.slice(0, -2)
+            }
+
+            function updatePage() {
+                const container = document.querySelector('#container')
+                container.innerHTML = '';
+                let count = 0;
+
+                Object.keys(state.soloists)
+                    .filter(key => {
+                        const range = state.soloists[key].range;
+                        return range.min >= state.start && range.min <= state.end
+                    })
+                    .sort((a,b) => {
+                        const multiplier = state.sort.direction === 'descending' ? -1 : 1;
+                        switch(state.sort.value) {
+                            case 'number of performances':
+                                return -1 * multiplier * state.soloists[b].num_programs - state.soloists[a].num_programs
+                            case 'first performance':
+                                return -1 * multiplier * state.soloists[a].range.min - state.soloists[b].range.min
+                            case 'instrument':
+                                return state.soloists[b].instrument[0].localeCompare(state.soloists[a].instrument[0]) * multiplier
+                            case 'soloist':
+                            default:
+                                return b.localeCompare(a) * multiplier
+                        }
+                    })
+                    .forEach((key, i) => {
+                        if (i >= (state.page * state.pageSize) && i < ((state.page + 1) * state.pageSize)) {
+                            const div = document.createElement('details')
+                            const soloist = document.createElement('summary')
+                            soloist.className = 'row'
+                            soloist.innerHTML += `<div>${state.soloists[key].num_programs}</div>`
+                            soloist.innerHTML += `<div>${key}</div>`
+                            soloist.innerHTML += `<div>${instrumentsList(state.soloists[key].instrument)}</div>`
+
+                            const performances = document.createElement('div')
+
+                            Object.keys(state.soloists[key].programs).forEach(id => {
+                                const program = state.soloists[key].programs[id]
+                                const item = document.createElement('div')
+                                item.className = 'row'
+                                
+                                item.innerHTML += `<div><a target="_blank" href="https://archives.nyphil.org/index.php/artifact/${id}/fullview">program</a></div>`
+                                item.innerHTML += `<div>${getRange(program.range)}</div>`
+
+                                performances.append(item)
+                            })
+                            
+                            div.append(soloist)
+                            div.append(performances)
+                            container.append(div)
+                        }
+
+                        count += 1;
+                    })
+
+                document.querySelector('#page-prev').disabled = state.page === 0;
+                document.querySelector('#page-next').disabled = (state.page + 1) * state.pageSize > count;
+                document.querySelector('#count').innerText = count;
+            }
+        </script>
+    </head>
+    <body>
+        <header>
+            <h1>
+                <span id="count"></span> soloists
+            </h1>
+            <div class="subtitle">
+                <h2> from </h2>
+                <select id="select-start" onchange="updateRange('start', this.value)"></select>
+                <h2> to </h2>
+                <select id="select-end" onchange="updateRange('end', this.value)"></select>
+            </div>
+        </header>
+        <main>
+            <div class="sorting">
+                <div>
+                    <h2> sort by </h2>
+                    <select id="select-sort-value" 
+                        value="soloist"
+                        onchange="updateSort('value', this.value)">
+                        <option disabled value="">
+                            sort by
+                        </option>
+                        <option value="soloist">
+                            soloist name
+                        </option>
+                        <option value="number of performances">
+                            number of performances
+                        </option>
+                        <option value="first performance">
+                            first performance
+                        </option>
+                        <option value="instrument">
+                            instrument
+                        </option>
+                    </select>
+                    <select id="select-sort-direction" 
+                        value="descending"
+                        onchange="updateSort('direction', this.value)">
+                        <option value="descending">
+                            descending
+                        </option>
+                        <option value="ascending">
+                            ascending
+                        </option>
+                    </select>
+                </div>
+                <div>
+                    <button id='page-prev' onclick="changePage(state.page - 1)">&lt;</button>
+                    <button id='page-next' onclick="changePage(state.page + 1)">&gt;</button>
+                </div>
+            </div>
+            <div id="container">
+            </div>
+        </main>
+    </body>
+</html>

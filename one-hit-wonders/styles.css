@@ -1,0 +1,56 @@
+main {
+    max-width: 660px;
+}
+header {
+    text-align: center;
+}
+header .subtitle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+h1 span{
+    font-size: inherit;
+}
+h2 {
+    margin: 0;
+}
+header select {
+    margin: 0 10px;
+}
+.sorting {
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 2rem 0;
+    padding: 0 1.5rem;
+}
+.sorting select {
+    margin: 0 0 0 1rem;
+}
+.composer-frequency-row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.composer-frequency-row:hover {
+    background: yellow
+}
+.composer-frequency-row > div {
+    padding: 0.75rem 1.5rem;
+}
+.composer-frequency-row > div:first-child {
+    flex: 0 0 20px;
+    text-align: right;
+}
+.composer-frequency-row > div:nth-child(2) {
+    flex: 1 1 auto;
+    text-align: left;
+} 
+.composer-frequency-row > div:last-child {
+    flex: 1 1 auto;
+    text-align: right;
+} 
+
+@media (max-width: 767px) {
+
+}

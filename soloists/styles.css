@@ -1,0 +1,88 @@
+main {
+    max-width: 660px;
+}
+header {
+    text-align: center;
+}
+header .subtitle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+h1 span{
+    font-size: inherit;
+}
+h2 {
+    margin: 0;
+}
+header select {
+    margin: 0 10px;
+}
+.sorting {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 0 2rem 0;
+    padding: 0 1.5rem;
+}
+.sorting > div {
+    display: flex;
+    flex-direction: row;
+}
+.sorting select {
+    margin: 0 0 0 1rem;
+}
+.sorting button {
+    background: #fff;
+    margin: 0 0 0 1rem;
+    border: 1px solid #000;
+    border-radius: 100%;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    font-size: 0.875rem;
+}
+.sorting button:disabled {
+    border: 1px solid gray;
+    color: gray;
+}
+.sorting button:hover:not(:disabled) {
+    background: yellow;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+details {
+    margin: 0.5rem 0;
+    cursor: pointer;
+}
+details:hover summary, details[open] summary {
+    background: blue;
+    color: #fff;
+}
+details > div {
+    border: 2px solid whitesmoke;
+    padding-left: 58px;
+}
+details:hover > div, details[open] > div {
+    border: 2px solid blue
+}
+.row > div {
+    padding: 0.75rem 1.5rem;
+}
+details summary div:first-child {
+    flex: 0 0 60px;
+}
+details summary div:nth-child(2) {
+    flex: 2 1 auto;
+}
+details summary div:last-child {
+    flex: 0 1 auto;
+    text-align: right;
+}
+
+@media (max-width: 767px) {
+
+}
