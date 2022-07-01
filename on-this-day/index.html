@@ -13,6 +13,7 @@
         <meta name="theme-color" content="#fff">
         <title>on this day</title>
         <link rel="stylesheet" type="text/css" href="./../client/main.css" />
+        <link rel="stylesheet" type="text/css" href="./on-this-day.css" />
         <!-- <link rel="icon" href="favicon.ico" /> -->
 
         <script>
@@ -166,6 +167,8 @@
                             const index = program.program.concerts.findIndex(concert => parseInt(concert.Date.split('-')[2].split('T')[0]) === parseInt(state.day))
                             p.innerHTML += `<p>${index + 1} of ${program.program.concerts.length} concerts</p>`
                         }
+
+                        p.innerHTML += `<div class="program-link"><a target="_blank" href="https://archives.nyphil.org/index.php/artifact/${program.program.id}/fullview">program ↗</a></div>`
 
                         program.program.works.forEach(work => {
                             const div = document.createElement('div')
