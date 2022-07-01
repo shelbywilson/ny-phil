@@ -1,13 +1,15 @@
-main {
+body {
+    margin: 0;
+}
+main, header {
     max-width: 660px;
 }
-header {
-    text-align: center;
+header, .sorting {
+    padding: 0 1rem;
 }
 header .subtitle{
     display: flex;
     flex-direction: row;
-    justify-content: center;
 }
 h1 span{
     font-size: inherit;
@@ -23,7 +25,6 @@ header select {
     flex-direction: row;
     justify-content: space-between;
     margin: 0 0 2rem 0;
-    padding: 0 1.5rem;
 }
 .sorting > div {
     display: flex;
@@ -32,22 +33,13 @@ header select {
 .sorting select {
     margin: 0 0 0 1rem;
 }
-.sorting button {
-    background: #fff;
-    margin: 0 0 0 1rem;
-    border: 1px solid #000;
-    border-radius: 100%;
-    width: 2rem;
-    height: 2rem;
-    cursor: pointer;
-    font-size: 0.875rem;
+summary {
+    display: -webkit-flex;
+    display: flex;
 }
-.sorting button:disabled {
-    border: 1px solid gray;
-    color: gray;
-}
-.sorting button:hover:not(:disabled) {
-    background: yellow;
+summary::marker, 
+summary::-webkit-details-marker {
+    display: none;
 }
 .row {
     display: flex;
@@ -55,34 +47,43 @@ header select {
     width: 100%;
 }
 details {
-    margin: 0.5rem 0;
+    border-top: 1px solid;
     cursor: pointer;
 }
 details:hover summary, details[open] summary {
-    background: blue;
-    color: #fff;
+    background: yellow;
 }
 details > div {
-    border: 2px solid whitesmoke;
-    padding-left: 58px;
+    padding-left: calc(10% - 0.5rem);
 }
 details:hover > div, details[open] > div {
-    border: 2px solid blue
+    /* border: 2px solid pink */
 }
 .row > div {
-    padding: 0.75rem 1.5rem;
+    padding: 0.75rem 1rem;
 }
 details summary div:first-child {
-    flex: 0 0 60px;
+    flex: 0 0 10%;
+    text-align: left;
 }
 details summary div:nth-child(2) {
-    flex: 2 1 auto;
+    text-align: left;
+    flex: 4 1 auto;
+    padding-left: 0.5rem;
 }
 details summary div:last-child {
-    flex: 0 1 auto;
+    flex: 1 4 auto;
     text-align: right;
 }
-
+#pagination {
+    margin: 1rem;
+}
+#pagination button:disabled {
+    border: 1px solid gray;
+    color: gray;
+}
 @media (max-width: 767px) {
-
+    select {
+        font-size: 0.875rem;
+    }
 }

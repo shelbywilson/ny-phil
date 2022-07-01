@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+#highlight-text {
+    position: fixed;
+    top: 2rem;
+    right: 2rem;
+}
+svg {
+    max-width: 100%;
+}
+.tick text {
+    font-size: 0.75rem;
+}
+@media (max-width: 767px) {
+}

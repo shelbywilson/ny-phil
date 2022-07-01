@@ -15,164 +15,26 @@
         <link rel="stylesheet" type="text/css" href="./client/main.css" />
         <!-- <link rel="icon" href="favicon.ico" /> -->
 
-        <script>
-            const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
-
-            const state = {
-                programs: [],
-                month: 0,
-                day: 0,
-            }
-            window.onload = () => {
-                const today = new Date();
-                state.day = today.getDate();
-                state.month = today.getMonth() + 1;
-
-                setDateDropdowns()
-
-                getData()
-            }
-
-            function setDateDropdowns() {
-                let select = document.getElementById('select-month')
-                let option = document.createElement('option')
-                option.value = ''
-                option.innerHTML = 'Select month'
-                option.disabled = true
-                select.append(option)
-
-                months.forEach((month, i) => {
-                    option = document.createElement('option')
-                    option.innerHTML = month
-                    option.value = i + 1
-
-                    select.append(option)
-                })
-
-                select.value = state.month
-
-                select = document.getElementById('select-day')
-                option = document.createElement('option')
-                option.value = ''
-                option.innerHTML = 'Select month'
-                option.disabled = true
-                select.append(option)
-
-                i = 0;
-                while (i < 31) {
-                    i += 1
-
-                    option = document.createElement('option')
-                    option.innerHTML = i
-                    option.value = i
-
-                    select.append(option)
-                }
-
-                select.value = state.day
-            }
-
-            function updateMonth(month) {
-                state.month = month
-
-                getData()
-            }
-
-            function updateDay(day) {
-                state.day = day
-
-                getData()
-            }
-
-            function getData() {
-                const month = state.month < 10 ? '0' + state.month : state.month;
-                const day = state.day < 10 ? '0' + state.day : state.day;
-
-                fetch(`./data/date-indices/${month}-${day}.json`)
-                    .then(res => res.json())
-                    .then(programs => {
-                        state.programs = programs.reverse()
-                        updatePage()
-                    })
-                    .catch(() => {
-                        state.programs = []
-                        updatePage()
-                    })
-            }
-
-            function getListOfLocations(concerts) {
-                let l = [];
-                concerts.forEach(concert => {
-                    if (l.indexOf(concert.Location) === -1) {
-                        l.push(concert.Location)
-                    }
-                })
-
-                return l
-            }
-
-            function getLocation(concerts) {
-                const concert = concerts.find(concert => parseInt(concert.Date.split('-')[2].split('T')[0]) === parseInt(state.day))
-
-                return concert.Location + '—' + concert.Venue
-            }
-
-            function updatePage() {
-                const container = document.querySelector('#programs-container')
-                container.innerHTML = '';
-
-                document.querySelector('h1').innerHTML = `${state.programs.length} programs have been performed on ${months[state.month - 1]} ${state.day}`
-                document.querySelector('h2').innerHTML = state.programs.length > 0 ? `from ${state.programs[state.programs.length - 1].year} to ${state.programs[0].year},` : '&nbsp;'
-
-                let composers = {}
-                if (state.programs.length > 0) {
-                    state.programs.forEach(program => {
-                        const p = document.createElement('div')
-                        // const day = new Date(program.year, state.month, state.day).toLocaleDateString('en-us', {weekday: 'long'})
-                        p.className = 'program'
-                        p.innerHTML = `<h3>${program.year}</h3>`
-                        p.innerHTML += `<em>${getLocation(program.program.concerts)}</em>`
-                        p.innerHTML += `<p>${program.program.orchestra}</p>`
-
-                        if (program.program.concerts.length > 1) {
-                            const index = program.program.concerts.findIndex(concert => parseInt(concert.Date.split('-')[2].split('T')[0]) === parseInt(state.day))
-                            p.innerHTML += `<p>${index + 1} of ${program.program.concerts.length} concerts</p>`
-                        }
-
-                        program.program.works.forEach(work => {
-                            const div = document.createElement('div')
-                            div.className = 'program-work' + (work.interval ? '-intermission' : '')
-                            div.innerHTML = `<span>${work.workTitle || work.interval}</span><span>${work.movement || ''}</span><span>${work.composerName || ''}</span>`
-                            p.append(div)
-
-                            if (!composers[work.composerName]) {
-                                composers[work.composerName] = 0
-                            }
-                            composers[work.composerName] += 1
-                        })
-
-                        container.append(p)
-                    })
-                    console.log(composers)
-                } else {
-                }
-            }
-        </script>
     </head>
     <body>
-        <header>
-            <select id='select-month' onchange="updateMonth(this.value)">
-            </select>
-            <select id='select-day' onchange="updateDay(this.value)">
-            </select>
-            <h2></h2>
-            <h1></h1>
-        </header>
         <main>
-            <!-- <select id="select-year" onchange="handleSelectYear(this.value)">
-            </select> -->
-            <div id="programs-container">
-            </div>
+            <ul>
+                <li>
+                    <a href='/on-this-day/'>on this day</a>
+                </li>
+                <li>
+                    <a href='/composer-frequency/'>composer frequency</a>
+                </li>
+                <li>
+                    <a href='/one-hit-wonders/'>one hit wonders</a>
+                </li>
+                <li>
+                    <a href='/soloists/'>soloists</a>
+                </li>
+                <li>
+                    <a href='/instruments/over-time-proportion/'>instruments</a>
+                </li>
+            </ul>
         </main>
     </body>
 </html>

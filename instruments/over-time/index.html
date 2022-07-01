@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="index,follow" />
+        <meta name="googlebot" content="index,follow" />
+        <meta name="description" content="" />
+        <meta property="og:url" content="" />
+        <meta property="og:title" content="soloists" />
+        <meta property="og:description" content="instruments" />
+        <meta name="theme-color" content="#fff">
+        <title>instruments</title>
+        <script src="./../../node_modules/d3/dist/d3.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="./../../client/main.css" />
+        <link rel="stylesheet" type="text/css" href="./styles.css" />
+        <!-- <link rel="icon" href="favicon.ico" /> -->
+
+        <script>
+            const state = {
+                instruments: {},
+                padded: {},
+                colors: {},
+                start: 1842,
+                end: new Date().getYear() + 1900,
+                scales: {
+                    x: null,
+                    y: null,
+                },
+                band: 40,
+                dim: [window.innerWidth - 40, window.innerHeight - 30]
+            }
+            String.prototype.hashCode = function() {
+                var hash = 0, i, chr;
+                if (this.length === 0) return hash;
+                for (i = 0; i < this.length; i++) {
+                    chr   = this.charCodeAt(i);
+                    hash  = ((hash << 5) - hash) + chr;
+                    hash |= 0; // Convert to 32bit integer
+                }
+                return hash;
+            };
+            window.onload = () => {
+                setDateDropdowns()
+                getData()
+            }
+
+            function getData() {
+                fetch(`./../../data/soloist-instruments-by-season-count.json`)
+                    .then(res => res.json())
+                    .then(instruments => {
+                        state.instruments = instruments;
+
+                        updatePage()
+                    })
+            }
+
+            function setDateDropdowns() {
+                const start = document.getElementById('select-start')
+                const end = document.getElementById('select-end')
+
+                let option = document.createElement('option')
+                option.value = ''
+                option.innerHTML = 'Select start'
+                option.disabled = true
+                start.append(option)
+
+                option = document.createElement('option')
+                option.value = ''
+                option.innerHTML = 'Select end'
+                option.disabled = true
+                end.append(option)
+                
+                let i = state.start;
+                while (i <= state.end) {
+                    option = document.createElement('option')
+                    option.innerHTML = i;
+                    option.value = i;
+
+                    start.append(option)
+                    end.append(option.cloneNode(true))
+                    i += 1
+                }
+
+                start.value = state.start;
+                end.value = state.end;
+            }
+
+            function updateRange(key, value) {
+                state.page = 0;
+                state[key] = parseInt(value, 10);
+
+                updatePage();
+            }
+
+            function getDateFromYear(year) {
+                return new Date(year, 0, 1)
+            }
+
+            function setScales() {
+                const svg = d3.select('#chart')
+                state.scales.x = d3.scaleTime()
+                    .domain([getDateFromYear(state.start), getDateFromYear(state.end + 1)])
+                    .range([130, state.dim[0]]);
+
+                svg.append("g")
+                    .style("transform", "translate(0," + 30 + "px)")
+                    .call(d3.axisTop(state.scales.x));
+
+                const instruments = Object.keys(state.padded)
+                    // .filter(key => Object.keys(state.padded[key]).length < 5)
+
+                state.scales.y = d3.scaleBand()
+                    .domain(instruments.sort((a,b) => b.localeCompare(a)))
+                    .range([ state.dim[1], 30]);
+
+                svg.append("g")
+                    .style("transform", "translate(130px,0px)")
+                    .call(d3.axisLeft(state.scales.y));
+
+                state.scales.frequency = d3.scaleSqrt()
+                    .domain([0, d3.max(instruments, 
+                            function(d) { 
+                                return d3.max(Object.values(state.instruments[d]))
+                            })
+                        ])
+                    .range([1, state.band])
+
+                state.scales.colors = d3.scaleOrdinal()
+                    .domain(instruments.sort((a,b) => b.localeCompare(a)))
+                    .range(["#5E4FA2", "#3288BD", "#66C2A5", "#ABDDA4", "#bad62a", "#dbdb42", "#ffc41b", "#F46D43", "#D53E4F", "#9E0142"])
+            }
+
+            function updatePage() {
+                const chart = d3.select('#chart')
+                chart.selectAll('*').remove()
+                let count = 0;
+
+                const padded = {}
+                Object.keys(state.instruments)
+                    // .filter(key => key.startsWith('ka'))
+                    // .filter(key => {
+                    //     return d3.max(Object.values(state.instruments[key])) > 10
+                    // })
+                    .forEach(instrument => {
+                        let obj = Object.keys(state.instruments[instrument])
+                            .map(year => (
+                                { 
+                                    year: +year, 
+                                    value: state.instruments[instrument][year]
+                                }
+                                ))
+                        obj = obj
+                            .filter(d => d.year >= state.start && d.year <= state.end)
+                            .sort((a,b) => a.year - b.year)
+
+                        if (obj.length > 0) {
+                            padded[instrument] = obj
+                        }
+                    })
+
+                state.padded = padded
+
+                state.dim = [1000, Object.keys(state.padded).length * state.band]
+
+                setScales()
+                
+                chart.attr('viewBox', `0 0 ${state.dim[0] + 40} ${state.dim[1] + 30}`)
+
+                const g = chart.selectAll('.instrument')
+                    .data(
+                        Object.keys(state.padded)
+                        .map(key => (
+                            {
+                                instrument: key,
+                                values: state.padded[key],
+                            }
+                        ))
+                    ).enter()
+                        .append('g')
+                        .attr('class', 'instrument')
+                        .style('transform', d => `translate(0, ${state.scales.y(d.instrument)}px)`)
+                
+                // g.append('rect')
+                //     .attr('width', state.dim[0] - 130)
+                //     .attr('height', state.band)
+                //     .style('transform', `translate(130px, 0)`)
+                //     .style('fill', d => state.scales.colors(d.instrument))
+                //     .style('opacity', 0.2)
+                g.append('line')
+                    .attr('x1', 130)
+                    .attr('x2', state.dim[0])
+                    .attr('y1', state.band/2)
+                    .attr('y2', state.band/2)
+                    .style('stroke', d => state.scales.colors(d.instrument))
+                    .style('stroke-width', 1)
+                    .style('opacity', 0.2)
+                
+                g.selectAll('rect.bar')
+                    .data(d => d.values)
+                    .enter()
+                        .append('rect')
+                        .attr('class', 'bar')
+                        .attr('data-instrument', function () {
+                            const i = d3.select(this).node().parentNode;
+                            return d3.select(i).datum().instrument;
+                        })
+                        .attr('height', d => state.scales.frequency(d.value))
+                        .attr('width', d => state.scales.x(getDateFromYear(d.year)) - state.scales.x(getDateFromYear(d.year - 1)) + 1)
+                        .style('transform', d => `translate(${state.scales.x(getDateFromYear(d.year))}px, ${state.band/2 + (state.scales.frequency(d.value))/-2}px)`)
+                        .style('fill', function() {
+                            return state.scales.colors(d3.select(this).attr('data-instrument'))
+                        })
+                
+                
+                Object.keys(state.padded)
+                    .forEach((key, i) => {
+                        count += 1;
+                    })
+
+                document.querySelector('#count').innerText = count;
+            }
+        </script>
+    </head>
+    <body>
+        <header>
+            <h1>
+                <span id="count"></span> instruments
+            </h1>
+            <div class="subtitle">
+                <h2> from </h2>
+                <select id="select-start" onchange="updateRange('start', this.value)"></select>
+                <h2> to </h2>
+                <select id="select-end" onchange="updateRange('end', this.value)"></select>
+            </div>
+        </header>
+        <main>
+            <div id="container">
+                <div id="highlight-text">
+                    &nbsp;
+                </div>
+                <svg id="chart"></svg>
+            </div>
+        </main>
+    </body>
+</html>

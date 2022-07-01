@@ -9,7 +9,7 @@
         <meta name="description" content="" />
         <meta property="og:url" content="" />
         <meta property="og:title" content="soloists" />
-        <meta property="og:description" content="frequency of work by composer" />
+        <meta property="og:description" content="soloists" />
         <meta name="theme-color" content="#fff">
         <title>soloists</title>
         <link rel="stylesheet" type="text/css" href="./../client/main.css" />
@@ -132,6 +132,8 @@
                                 return -1 * multiplier * state.soloists[a].range.min - state.soloists[b].range.min
                             case 'instrument':
                                 return state.soloists[b].instrument[0].localeCompare(state.soloists[a].instrument[0]) * multiplier
+                            case 'number of instruments':
+                                return  -1 * multiplier * state.soloists[b].instrument.length - state.soloists[a].instrument.length  
                             case 'soloist':
                             default:
                                 return b.localeCompare(a) * multiplier
@@ -141,10 +143,12 @@
                         if (i >= (state.page * state.pageSize) && i < ((state.page + 1) * state.pageSize)) {
                             const div = document.createElement('details')
                             const soloist = document.createElement('summary')
-                            soloist.className = 'row'
-                            soloist.innerHTML += `<div>${state.soloists[key].num_programs}</div>`
-                            soloist.innerHTML += `<div>${key}</div>`
-                            soloist.innerHTML += `<div>${instrumentsList(state.soloists[key].instrument)}</div>`
+                            const soloistInner = document.createElement('div')
+                            soloistInner.className = 'row';
+                            soloistInner.innerHTML += `<div>${state.soloists[key].num_programs}</div>`
+                            soloistInner.innerHTML += `<div>${key}</div>`
+                            soloistInner.innerHTML += `<div>${instrumentsList(state.soloists[key].instrument)}</div>`
+                            soloist.append(soloistInner)
 
                             const performances = document.createElement('div')
 
@@ -207,6 +211,9 @@
                         <option value="instrument">
                             instrument
                         </option>
+                        <option value="number of instruments">
+                            number of instruments
+                        </option>
                     </select>
                     <select id="select-sort-direction" 
                         value="descending"
@@ -219,10 +226,11 @@
                         </option>
                     </select>
                 </div>
-                <div>
-                    <button id='page-prev' onclick="changePage(state.page - 1)">&lt;</button>
-                    <button id='page-next' onclick="changePage(state.page + 1)">&gt;</button>
-                </div>
+            </div>
+
+            <div id="pagination">
+                <button id='page-prev' onclick="changePage(state.page - 1)">prev</button>
+                <button id='page-next' onclick="changePage(state.page + 1)">next</button>
             </div>
             <div id="container">
             </div>
